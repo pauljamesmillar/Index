@@ -65,10 +65,10 @@ Index to all projects in GitHub
 
 ---
 
-### Entity Framework
+### Entity Framework / Code First
 |Project Name|
 |------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
