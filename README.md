@@ -5,6 +5,13 @@
 Index to all projects in GitHub
 
 ---
+### AJAX
+|Project Name|
+|------------|
+|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+
+---
 
 ### AngularJS
 |Project Name|
@@ -31,6 +38,7 @@ Index to all projects in GitHub
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
 
 ---
 
@@ -65,6 +73,13 @@ Index to all projects in GitHub
 
 ---
 
+### Dependency Injection
+|DI|Project Name|
+|--|------------|
+|StructureMap|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+
+---
+
 ### Entity Framework / Code First
 |Project Name|
 |------------|
@@ -91,6 +106,7 @@ Index to all projects in GitHub
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
 
 ---
 
@@ -98,6 +114,13 @@ Index to all projects in GitHub
 |Project Name|Dynamic Linq|
 |------------|------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Yes|
+
+---
+
+### Mock Data
+|Tech|Project Name|
+|----|------------|
+|Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
@@ -121,6 +144,8 @@ Index to all projects in GitHub
 ### Patterns
 |Pattern|Project Name|
 |-------|------------|
+|Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
+|Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
 |Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 
 ---
