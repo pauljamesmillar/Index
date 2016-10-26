@@ -183,13 +183,9 @@ Index to all Projects on GitHub
 |Principle|Project Name|
 |---------|------------|
 |Single Responsibility Principle|[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
-
 |Open / Closed Principle |[DotNet_DesignPrinciples_SOLID/OpenClosedPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/OpenClosedPrinciple)|
-
 |Liskov's Substitution Principle|[DotNet_DesignPrinciples_SOLID/LiskovSubstitutionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/LiskovSubstitutionPrinciple)|
-
 |Interface Segregation Principle|[DotNet_DesignPrinciples_SOLID/InterfaceSegregationPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/InterfaceSegregationPrinciple)|
-
 |Dependency Inversion Principle|[DotNet_DesignPrinciples_SOLID/DependencyInversionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/DependencyInversionPrinciple)|
 
 ---
