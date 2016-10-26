@@ -42,11 +42,18 @@ Index to all Projects on GitHub
 
 ---
 ### Api's - 3rd Party
-|Service|Api|Project Name|
-|-------|---|------------|
+|Plugin|Project Name|
+|------|------------|
 |Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+---
+
+### Azure
+|Service|Project Name|
+|-------|------------|
+|DocumantDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 
 ---
 
@@ -86,10 +93,11 @@ Index to all Projects on GitHub
 |Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
-||[DataStorage_MongoDB](https://github.com/Apollo013/DataStorage_MongoDB)|
+||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-|Func(T)|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+|Func Delegate|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Anonymous & Named Delegates|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Collections|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
 ||[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
@@ -106,6 +114,7 @@ Index to all Projects on GitHub
 ||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 ||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Threads|[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
 
 
@@ -159,7 +168,8 @@ Index to all Projects on GitHub
 |Caching|.Net|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
 ||.Net|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |Local Storage||[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-|NoSql|MongoDB|[DataStorage_MongoDB](https://github.com/Apollo013/DataStorage_MongoDB)|
+|NoSql|MongoDB|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|NoSql|DocumantDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 
 ---
 
@@ -189,12 +199,14 @@ Index to all Projects on GitHub
 |Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Observer|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Prototype|[DotNet_DesignPatterns_CreationalPatterns/PrototypePattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/PrototypePattern)|
 |Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-||[DataStorage_MongoDB](https://github.com/Apollo013/DataStorage_MongoDB)|
+||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Singleton|[DotNet_DesignPatterns_CreationalPatterns/SingletonPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/SingletonPattern)|
 |Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
@@ -233,6 +245,7 @@ Index to all Projects on GitHub
 |IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|BadRequest, InternalServerError, NotFound, NotImplemented|
 ||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
 ||[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)||
 |DbEntityValidationException|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Exception Handling override for DbContext.SaveChanges|
 
 ---
@@ -302,7 +315,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
-|[DataStorage_MongoDB](https://github.com/Apollo013/DataStorage_MongoDB)|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 
 ---
 
@@ -324,7 +337,7 @@ Index to all Projects on GitHub
 ### MongoDB
 |Project Name|
 |------------|
-|[DataStorage_MongoDB](https://github.com/Apollo013/DataStorage_MongoDB)|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 
 ---
 
@@ -431,6 +444,8 @@ Index to all Projects on GitHub
 |Test Framework|Program Name|
 |--------------|------------|
 |Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 
 ---
 
@@ -466,6 +481,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_SelfHost](https://github.com/Apollo013/AspNet_WebApi2_SelfHost)|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 |[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 
 ---
 
