@@ -39,12 +39,17 @@ Index to all projects in GitHub
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
-
 #### C# FEATURES
 |Feature|Project Name|
 |-------|------------|
 |Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+#### Miscellaneous Features
+|Feature|Project Name|
+|-------|------------|
+|Paging|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|Dynamic Sorting|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
@@ -81,13 +86,6 @@ Index to all projects in GitHub
 |Project Name|Dynamic Linq|
 |------------|------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Yes|
-
----
-
-### Miscellaneous Features
-|Feature|Project Name|
-|-------|------------|
-|Paging|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
