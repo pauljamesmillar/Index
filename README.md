@@ -30,13 +30,19 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AngulerJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
+---
+### Features - Miscellaneous
+|Project Name|
+|------------|
 ---
 
 ### HTML
 |Project Name|
 |------------|
 |[AngulerJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
@@ -44,6 +50,7 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AngulerJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
