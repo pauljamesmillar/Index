@@ -177,7 +177,6 @@ Index to all Projects on GitHub
 ### Exception Handling / Responses
 |Feature|Project Name|Note|
 |-------|------------|----|
-
 |Exception|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Custom ItemNotFound|
 |ExceptionFilterAttribute|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)||
 |ExceptionHandler|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Global|
