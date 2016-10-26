@@ -237,6 +237,13 @@ Index to all Projects on GitHub
 
 ---
 
+### GlassFish
+|Project Name|
+|------------|
+|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+
+---
+
 ### HistoryJS
 |Project Name|
 |------------|
@@ -254,6 +261,13 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+
+---
+
+### Java
+|Project Name|
+|------------|
+|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
 
 ---
 
@@ -427,6 +441,17 @@ Index to all Projects on GitHub
 
 ---
 
+### WCF
+|Project Name|
+|------------|
+|[WCF_WindowsManagedService](https://github.com/Apollo013/WCF_WindowsManagedService)|
+|[WCF_Versioning_Strategies](https://github.com/Apollo013/WCF_Versioning_Strategies)|
+|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|[WCF_HelloWorld](https://github.com/Apollo013/WCF_HelloWorld)|
+|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
+
+---
+
 ### Web Api 2
 |Project Name|
 |------------|
@@ -441,4 +466,11 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_SelfHost](https://github.com/Apollo013/AspNet_WebApi2_SelfHost)|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 |[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
+
+---
+
+### WPF
+|Project Name|
+|------------|
+|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
 
