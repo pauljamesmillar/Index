@@ -42,11 +42,24 @@ Index to all projects in GitHub
 
 ---
 
+###Entity Framework
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+---
+
 ### HTML
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+---
+
+### IDentity
+|Project Name|
+|------------|
 
 ---
 
