@@ -123,6 +123,14 @@ Index to all projects in GitHub
 
 ---
 
+### Exception Handling / Responses
+|Feature|Project Name|Note|
+|-------|------------|----|
+|IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|BadRequest, InternalServerError, NotFound, NotImplemented|
+|DbEntityValidationException|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Exception Handling prior to SaveChanges|
+
+---
+
 ### HTML
 |Project Name|
 |------------|
@@ -220,6 +228,13 @@ Index to all projects in GitHub
 |Test Framework|Program Name|
 |--------------|------------|
 |Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+---
+
+### Validation
+|Feature|Project Name|Note|
+|-------|------------|----|
+|ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
 
 ---
 
