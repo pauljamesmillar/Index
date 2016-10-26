@@ -7,10 +7,10 @@ Index to all projects in GitHub
 ---
 
 ### AngularJS
-|Project Name|Description|
-|------------|-----------|
-|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|Demonstrates various chart plugins and AngularJS features including routing, directives, runners, controllers ...|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)| Takes a look at making RESTful calls with the Restangular plugin|
+|Project Name|
+|------------|
+|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)| 
 
 ---
 
