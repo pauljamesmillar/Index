@@ -22,6 +22,7 @@ Index to all Projects on GitHub
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 
 #### ANGULARJS 3rd PARTY PLUGINS
@@ -54,6 +55,7 @@ Index to all Projects on GitHub
 |Service|Project Name|
 |-------|------------|
 |DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|DocumentDB|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
 
 ---
 
@@ -82,6 +84,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 ---
 
@@ -95,6 +98,7 @@ Index to all Projects on GitHub
 ||[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 ||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+||[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 |Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Func Delegate|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
@@ -116,7 +120,10 @@ Index to all Projects on GitHub
 ||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+||[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
 |Threads|[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
+|Algothims|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
+|Event Handling|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
 
 
 #### C# MISCELLENEOUS FEATURES
@@ -126,6 +133,7 @@ Index to all Projects on GitHub
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |Dynamic Sorting & Filtering|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|ZipFiles|[CSharp_ZipFiles](https://github.com/Apollo013/CSharp_ZipFiles)|
 
 ---
 
@@ -170,7 +178,9 @@ Index to all Projects on GitHub
 ||.Net|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |Local Storage||[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |NoSql|MongoDB|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|NoSql|MongoDB|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |NoSql|DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|NoSql|DocumentDB|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
 
 ---
 
@@ -296,6 +306,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 ---
 
@@ -317,6 +328,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|[CSharp_PLINQ](https://github.com/Apollo013/CSharp_PLINQ)|
 
 ---
 
@@ -339,6 +351,7 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 ---
 
@@ -381,6 +394,7 @@ Index to all Projects on GitHub
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 ---
 
