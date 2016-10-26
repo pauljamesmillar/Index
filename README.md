@@ -146,21 +146,21 @@ Index to all Projects on GitHub
 ---
 
 ### Cryptography
-|Feature|Project Name|
-|----|------------|
-|Hashing Algorithms|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
-|Asymmetric Encryption|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
-|Symmetric Encryption|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
-|Random Key Generator|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
+|Project Name|
+|------------|
+|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
+|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
+|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
+|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
 
 ---
 
 ### Data Storage
-|Type|Project Name|
-|----|------------|
-|Caching|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
-||[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
-|Local Storage|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+|Type|Provider|Project Name|
+|----|--------|------------|
+|Caching|.Net|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+||.Net|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+|Local Storage||[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
 ---
 
@@ -202,13 +202,13 @@ Index to all Projects on GitHub
 ---
 
 ### Design Principles
-|Principle|Project Name|
-|---------|------------|
-|Single Responsibility Principle|[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
-|Open / Closed Principle |[DotNet_DesignPrinciples_SOLID/OpenClosedPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/OpenClosedPrinciple)|
-|Liskov's Substitution Principle|[DotNet_DesignPrinciples_SOLID/LiskovSubstitutionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/LiskovSubstitutionPrinciple)|
-|Interface Segregation Principle|[DotNet_DesignPrinciples_SOLID/InterfaceSegregationPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/InterfaceSegregationPrinciple)|
-|Dependency Inversion Principle|[DotNet_DesignPrinciples_SOLID/DependencyInversionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/DependencyInversionPrinciple)|
+|Project Name|
+|------------|
+|[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/OpenClosedPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/OpenClosedPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/LiskovSubstitutionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/LiskovSubstitutionPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/InterfaceSegregationPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/InterfaceSegregationPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/DependencyInversionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/DependencyInversionPrinciple)|
 
 ---
 
@@ -231,8 +231,8 @@ Index to all Projects on GitHub
 |-------|------------|----|
 |Exception|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Custom ItemNotFound|
 |ExceptionFilterAttribute|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)||
-|ExceptionHandler|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Global|
-|Logging|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)||
+|ExceptionHandler|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Global Handler|
+|Logging|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Global Logger|
 |IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|BadRequest, InternalServerError, NotFound, NotImplemented|
 ||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
 ||[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
@@ -284,13 +284,13 @@ Index to all Projects on GitHub
 ---
 
 ### LINQ
-|Project Name|Note|
-|------------|------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Dynamic Linq|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Dynamic Linq|
-|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|Grouping, Where,OrderBy|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)||
-|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)||
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 
 ---
 
