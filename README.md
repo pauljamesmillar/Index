@@ -10,7 +10,7 @@ Index to all Projects on GitHub
 |------------|
 |[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
-|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
 
 ---
 
@@ -72,6 +72,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
@@ -109,6 +110,13 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+
+---
+
+### CrosswordsJS
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
@@ -159,6 +167,13 @@ Index to all Projects on GitHub
 
 ---
 
+### HistoryJS
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+
+---
+
 ### HTML
 |Project Name|
 |------------|
@@ -167,6 +182,7 @@ Index to all Projects on GitHub
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
@@ -179,6 +195,7 @@ Index to all Projects on GitHub
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
@@ -187,6 +204,7 @@ Index to all Projects on GitHub
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
@@ -239,6 +257,7 @@ Index to all Projects on GitHub
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
@@ -246,6 +265,7 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
