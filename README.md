@@ -5,6 +5,12 @@
 Index to all Projects on GitHub
 
 ---
+### ADO
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+
+---
 ### AJAX
 |Project Name|
 |------------|
@@ -56,6 +62,7 @@ Index to all Projects on GitHub
 |-------|------------|
 |DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |DocumentDB|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
+|Block Storage|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
 
 ---
 
@@ -85,6 +92,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -101,9 +109,14 @@ Index to all Projects on GitHub
 ||[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 |Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+||[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
+||[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
 |Func Delegate|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+||[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
+||[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
 |Anonymous & Named Delegates|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+||[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
 |Collections|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
 ||[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
 ||[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
@@ -121,9 +134,16 @@ Index to all Projects on GitHub
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 ||[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
+||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+||[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 |Threads|[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
+||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 |Algothims|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
 |Event Handling|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
+||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+|Json|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
+|Operator Overloading|[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
+|Indexer Methods|[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
 
 
 #### C# MISCELLENEOUS FEATURES
@@ -181,6 +201,9 @@ Index to all Projects on GitHub
 |NoSql|MongoDB|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |NoSql|DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |NoSql|DocumentDB|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
+|Blob|Azure Block Storage|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
+|Sql|MySql|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|Sql|Access|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 ---
 
@@ -200,18 +223,23 @@ Index to all Projects on GitHub
 |Builder|[DotNet_DesignPatterns_CreationalPatterns/BuilderPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/BuilderPattern)|
 |Chain Of Reponsibility|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Command|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |Composite|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |CQRS|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|DAO|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
 ||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Facade|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern)|
+||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Observer|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|MVVM|[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
+||[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |Prototype|[DotNet_DesignPatterns_CreationalPatterns/PrototypePattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/PrototypePattern)|
 |Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
@@ -219,6 +247,7 @@ Index to all Projects on GitHub
 ||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Singleton|[DotNet_DesignPatterns_CreationalPatterns/SingletonPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/SingletonPattern)|
+||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
@@ -285,6 +314,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -292,6 +322,9 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|[Java_DataStructures](https://github.com/Apollo013/Java_DataStructures)|
+|[Java_Algorithms](https://github.com/Apollo013/Java_Algorithms)|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -307,6 +340,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -319,7 +353,7 @@ Index to all Projects on GitHub
 
 ---
 
-### LINQ / Dynamic LINQ, Parallel LINQ
+### LINQ / Dynamic LINQ / Parallel LINQ
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -329,6 +363,17 @@ Index to all Projects on GitHub
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |[CSharp_PLINQ](https://github.com/Apollo013/CSharp_PLINQ)|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+|[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
+|[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
+
+---
+
+### Localisation
+|Project Name|
+|------------|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -337,6 +382,7 @@ Index to all Projects on GitHub
 |-----------------|------------|
 |Log4Net|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |NLog|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
+|Log4J|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -344,6 +390,13 @@ Index to all Projects on GitHub
 |Tech|Project Name|
 |----|------------|
 |Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+---
+
+### MomentJS
+|Project Name|
+|------------|
+|[MomentJS](https://github.com/Apollo013/MomentJS)|
 
 ---
 
@@ -406,6 +459,13 @@ Index to all Projects on GitHub
 
 ---
 
+### Transactions
+|Project Name|
+|------------|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+---
+
 ### Security
 |Feature|Project Name|Note|
 |-------|------------|----|
@@ -461,6 +521,36 @@ Index to all Projects on GitHub
 |Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|JUnit|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+---
+
+### TomCat
+|Project Name|
+|------------|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+---
+
+### UML
+|Provider|Project Name|
+|--------|------------|
+|Visual Paradigm|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+---
+
+### VB6
+|Project Name|
+|------------|
+|[VB6_GameOfLifeApp](https://github.com/Apollo013/VB6_GameOfLifeApp)|
+
+---
+
+## VB.Net
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 
 ---
 
@@ -500,8 +590,18 @@ Index to all Projects on GitHub
 
 ---
 
+### WinForms
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+
+---
+
 ### WPF
 |Project Name|
 |------------|
 |[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
+|[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
+|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
+|[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 
