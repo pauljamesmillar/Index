@@ -143,7 +143,9 @@ Index to all Projects on GitHub
 |Operator Overloading|[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
 |Indexer Methods|[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
 |Attributes|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
 |Reflection|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
 
 
 #### C# MISCELLENEOUS FEATURES
