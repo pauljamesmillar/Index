@@ -280,7 +280,7 @@ Index to all Projects on GitHub
 
 ---
 
-### LINQ
+### LINQ / Dynamic LINQ, Parallel LINQ
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
