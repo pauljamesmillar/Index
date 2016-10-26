@@ -33,9 +33,12 @@ Index to all projects in GitHub
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
-### Features - Miscellaneous
-|Project Name|
-|------------|
+### C# / DotNet
+|Feature|Project Name|
+|-------|------------|
+|Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|Paging|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ---
 
 ### HTML
