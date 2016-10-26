@@ -227,12 +227,9 @@ Index to all Projects on GitHub
 ---
 
 ### Exception Handling / Responses
-|Feature|Project Name|Note|
+|Project Name|Features|Note|
 |-------|------------|----|
-|Exception|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Custom ItemNotFound|
-|ExceptionFilterAttribute|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)||
-|ExceptionHandler|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Global Handler|
-|Logging|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Global Logger|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Exception, ExceptionFilterAttribute, ExceptionHandler|Custom ItemNotFound, Global Handler, Global Logger|
 |IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|BadRequest, InternalServerError, NotFound, NotImplemented|
 ||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
 ||[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
