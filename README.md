@@ -39,6 +39,7 @@ Index to all projects in GitHub
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
 
 
 #### C# FEATURES
@@ -93,7 +94,7 @@ Index to all projects in GitHub
 
 ---
 
-### Linq
+### LINQ
 |Project Name|Dynamic Linq|
 |------------|------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Yes|
@@ -114,6 +115,13 @@ Index to all projects in GitHub
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+
+---
+
+### Patterns
+|Pattern|Project Name|
+|-------|------------|
+|Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 
 ---
 
