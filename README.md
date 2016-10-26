@@ -97,6 +97,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 |[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
 |[DotNet_DesignPrinciples_SOLID](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID)|
+|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
 
 
 #### C# FEATURES
@@ -122,12 +123,18 @@ Index to all Projects on GitHub
 ---
 
 ### Communications 
-|Type|Project Name|
+|Type/Feature|Project Name|
 |----|------------|
 |Web Sockets|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |HttpClient|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
 ||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 ||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+||[DotNet_Communications_HttpClient](https://github.com/Apollo013/DotNet_Communications_HttpClient)|
+|Tcp|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
+|Pipes|[DotNet_Communications_Pipes](https://github.com/Apollo013/DotNet_Communications_Pipes)|
+|Multipart Messages|[DotNet_Communications_MultipartMessage](https://github.com/Apollo013/DotNet_Communications_MultipartMessage)|
+|RabbitMQ|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
+||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
 ---
 
@@ -135,6 +142,16 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+
+---
+
+### Cryptography
+|Feature|Project Name|
+|----|------------|
+|Hashing Algorithms|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
+|Asymmetric Encryption|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
+|Symmetric Encryption|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
+|Random Key Generator|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
 
 ---
 
@@ -160,6 +177,7 @@ Index to all Projects on GitHub
 |-------|------------|
 |Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
 ||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Builder|[DotNet_DesignPatterns_CreationalPatterns/BuilderPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/BuilderPattern)|
 |Chain Of Reponsibility|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Command|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Composite|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
@@ -168,17 +186,21 @@ Index to all Projects on GitHub
 ||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Facade|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+||[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern)|
 |Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 |Observer|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Prototype|[DotNet_DesignPatterns_CreationalPatterns/PrototypePattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/PrototypePattern)|
 |Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|Singleton|[DotNet_DesignPatterns_CreationalPatterns/SingletonPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/SingletonPattern)|
 |Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 ---
+
 ### Design Principles
 |Principle|Project Name|
 |---------|------------|
@@ -309,6 +331,14 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 |[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
+
+---
+
+### RabbitMQ
+|Project Name|
+|------------|
+|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
+|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
 ---
 
