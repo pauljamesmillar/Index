@@ -34,8 +34,7 @@ Index to all projects in GitHub
 
 ---
 
-### C#
-
+### C## 
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -49,7 +48,7 @@ Index to all projects in GitHub
 
 ---
 
-###Entity Framework
+### Entity Framework
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
