@@ -164,6 +164,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
 |[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
 
 ---
 
@@ -285,11 +286,13 @@ Index to all Projects on GitHub
 |-------|------------|----|
 |Api Key Authentication|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 |Basic Authentication|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
+||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
 |IPrincipal|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 |Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
 ||[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|ClaimsIdentity|
 ||[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 |AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
+|IAuthenticationFilter|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
 |Challenge Result|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|IHttpActionResult|
 ||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|IHttpActionResult|
 |OAuth|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|OAuthAuthorizationServerProvider|
