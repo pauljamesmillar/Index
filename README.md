@@ -24,6 +24,7 @@ Index to all projects in GitHub
 
 #### ANGULARJS 3rd PARTY PLUGINS
 |Plugin|Project Name|
+|------|------------|
 |Restangular|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |Ui-Grid|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |Toaster|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
