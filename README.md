@@ -109,7 +109,14 @@ Index to all Projects on GitHub
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 |Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-
+|Collections|[Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
+||[Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
+||[Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
+||[Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
+||[Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
+|Comparers|[Comparer(T)](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
+|IEnumerators|[IEnumerator(T)](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
+|StreamReader|[](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|
 
 #### C# MISCELLENEOUS FEATURES
 |Feature|Project Name|
