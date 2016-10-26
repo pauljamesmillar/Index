@@ -210,9 +210,10 @@ Index to all projects in GitHub
 
 ### Security
 |Feature|Project Name|Note|
-|-------|------------||----|
+|-------|------------|----|
 |Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
 |AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
+
 ---
 
 ### Testing
