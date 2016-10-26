@@ -74,6 +74,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 
 ---
 
@@ -89,6 +90,13 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 |[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[AspNet_MVC5_Razor](https://github.com/Apollo013/AspNet_MVC5_Razor)|
+|[AspNet_WebApi2_MultiPipeLine](https://github.com/Apollo013/AspNet_WebApi2_MultiPipeLine)|
+|[AspNet_WebApi2_SelfHost](https://github.com/Apollo013/AspNet_WebApi2_SelfHost)|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
+|[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
+|[DotNet_DesignPrinciples_SOLID](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID)|
 
 
 #### C# FEATURES
@@ -151,13 +159,30 @@ Index to all Projects on GitHub
 |Pattern|Project Name|
 |-------|------------|
 |Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
+||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Chain Of Reponsibility|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Command|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Composite|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |CQRS|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 |Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
+||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Facade|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|Observer|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+---
+### Design Principles
+|Principle|Project Name|
+|---------|------------|
+|SOLID|[DotNet_DesignPrinciples_SOLID](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID)|
 
 ---
 
@@ -171,6 +196,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
 |[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 
 ---
 
@@ -204,6 +230,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 
 ---
 
@@ -217,6 +244,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 
 ---
 
@@ -235,7 +263,8 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Dynamic Linq|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Dynamic Linq|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|Grouping, Where,OrderBy|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|Include|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)||
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)||
 
 ---
 
@@ -261,7 +290,8 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
-
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[AspNet_MVC5_Razor](https://github.com/Apollo013/AspNet_MVC5_Razor)|
 ---
 
 ### OWIN
@@ -383,3 +413,5 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_MultiPipeLine](https://github.com/Apollo013/AspNet_WebApi2_MultiPipeLine)|
 |[AspNet_WebApi2_SelfHost](https://github.com/Apollo013/AspNet_WebApi2_SelfHost)|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
+|[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
+
