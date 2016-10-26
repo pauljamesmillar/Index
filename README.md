@@ -90,12 +90,6 @@ Index to all Projects on GitHub
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 
-#### ASYNCHRONOUS PROGRAMMING FEATURES
-|Feature|Project Name|
-|-------|------------|
-|async / await|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-
-
 #### MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
@@ -233,6 +227,13 @@ Index to all Projects on GitHub
 |-------|------------|----|
 |Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
 |AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
+
+---
+
+### Tasks / Threads
+|Feature|Project Name|
+|-------|------------|
+|Tasks|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 
 ---
 
