@@ -110,13 +110,19 @@ Index to all Projects on GitHub
 ||[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 |Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 |Collections|[Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
-||[Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
-||[Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
-||[Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
-||[Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
-|Comparers|[Comparer(T)](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
-|IEnumerators|[IEnumerator(T)](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
-|StreamReader|[](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|
+||[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
+||[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
+||[CSharp_Collections/Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
+||[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
+|Comparers|[CSharp_Collections](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
+|Enumerators|[CSharp_Collections](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
+|StreamReader|[CSharp_Collections](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|
+|Tasks|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+||[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+
 
 #### C# MISCELLENEOUS FEATURES
 |Feature|Project Name|
@@ -409,16 +415,6 @@ Index to all Projects on GitHub
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR/ChatRooms](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/ChatRooms)|
 |[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
-
----
-
-### Tasks / Threads
-|Feature|Project Name|
-|-------|------------|
-|Tasks|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-|Tasks|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|Tasks|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-|Tasks||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 
 ---
 
