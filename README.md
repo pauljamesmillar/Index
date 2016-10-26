@@ -38,6 +38,7 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 
 #### C# FEATURES
 |Feature|Project Name|
@@ -45,7 +46,7 @@ Index to all projects in GitHub
 |Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
-#### Miscellaneous Features
+#### MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
 |Paging|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -89,6 +90,13 @@ Index to all projects in GitHub
 
 ---
 
+### MVC
+|Project Name|
+|------------|
+|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+
+---
+
 ### OWIN
 |Project Name|
 |------------|
@@ -100,6 +108,13 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+
+---
+
+### Security
+|Feature|Project Name|
+|-------|------------|
+|Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 
 ---
 
