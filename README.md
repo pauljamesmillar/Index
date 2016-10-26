@@ -19,6 +19,7 @@ Index to all projects in GitHub
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)| 
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 ---
 
@@ -29,8 +30,8 @@ Index to all projects in GitHub
 
 ---
 ### Api's - 3rd Party
-|Co.|Api|Project Name|
-|---|---|------------|
+|Service|Api|Project Name|
+|-------|---|------------|
 |Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
@@ -72,14 +73,16 @@ Index to all projects in GitHub
 |-------|------------|
 |Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-
+||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 #### MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
 |Paging|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |Dynamic Sorting|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-
+||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|Dynamic Filtering|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ---
 
 ### Data Storage
@@ -102,6 +105,7 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 ---
 
@@ -131,9 +135,10 @@ Index to all projects in GitHub
 ---
 
 ### LINQ
-|Project Name|Dynamic Linq|
+|Project Name|Other|
 |------------|------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Yes|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|Dynamic Linq|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Dynamic Linq|
 
 ---
 
@@ -166,7 +171,10 @@ Index to all projects in GitHub
 |-------|------------|
 |Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
 |Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
+|Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 ---
 
@@ -181,6 +189,12 @@ Index to all projects in GitHub
 |Feature|Project Name|
 |-------|------------|
 |Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+
+---
+
+### Testing
+|Test Framework|Program Name|
+|Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 ---
 
