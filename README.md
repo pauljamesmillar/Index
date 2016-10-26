@@ -53,7 +53,7 @@ Index to all Projects on GitHub
 ### Azure
 |Service|Project Name|
 |-------|------------|
-|DocumantDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 
 ---
 
@@ -98,6 +98,7 @@ Index to all Projects on GitHub
 |Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Func Delegate|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Anonymous & Named Delegates|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Collections|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
 ||[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
@@ -169,7 +170,7 @@ Index to all Projects on GitHub
 ||.Net|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |Local Storage||[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |NoSql|MongoDB|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|NoSql|DocumantDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|NoSql|DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 
 ---
 
