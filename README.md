@@ -60,7 +60,7 @@ Index to all projects in GitHub
 |Type|Tech|Project Name|
 |----|----|------------|
 |Caching|ObjectCache|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
-|Caching|MemoryCache|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+||MemoryCache|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 
 ---
 
@@ -104,6 +104,8 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
 
 ---
 
