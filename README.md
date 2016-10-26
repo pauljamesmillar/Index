@@ -369,9 +369,7 @@ Index to all Projects on GitHub
 |IPrincipal|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 |Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
 ||[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|ClaimsIdentity|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Factory|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Unpacking Claims|
+||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking, Claims Factory, Unpacking Claims|
 ||[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 |AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
 ||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking|
