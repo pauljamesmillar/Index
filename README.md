@@ -10,6 +10,7 @@ Index to all Projects on GitHub
 |------------|
 |[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -56,6 +57,7 @@ Index to all Projects on GitHub
 |ChartJS|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |EasyPieCharts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |Flot Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+||[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
 |Knob Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 
 ---
@@ -69,6 +71,7 @@ Index to all Projects on GitHub
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -80,7 +83,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 #### C# FEATURES
 |Feature|Project Name|
@@ -99,6 +102,13 @@ Index to all Projects on GitHub
 |Dynamic Sorting|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |Dynamic Filtering|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+---
+
+### Communications 
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -155,6 +165,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -172,6 +183,14 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+
+---
+
+### KnockoutJS 
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -204,6 +223,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 |[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 |[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -220,6 +240,14 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+
+---
+
+### TextJS 
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 
 ---
 
@@ -228,6 +256,14 @@ Index to all Projects on GitHub
 |-------|------------|----|
 |Claims|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
 |AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
+
+---
+
+### SignalR
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_SignalR/ChatRooms](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/ChatRooms)|
+|[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
 
 ---
 
