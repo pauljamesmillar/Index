@@ -9,7 +9,7 @@ Index to all projects in GitHub
 ### AngularJS
 |Project Name|Description|
 |------------|-----------|
-|[AngulerJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|Demonstrates various chart plugins  and angularjs features includiong directives, routing, runners, controllers ...|
+|[AngulerJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|Demonstrates various chart plugins and AngularJS features including routing, directives, runners, controllers ...|
 
 
 ### Charts
