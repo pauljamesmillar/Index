@@ -422,6 +422,14 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[AspNet_MVC5_Razor](https://github.com/Apollo013/AspNet_MVC5_Razor)|
+
+---
+
+### NodeJS / ExpressJS
+|Project Name|
+|------------|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+
 ---
 
 ### OWIN
