@@ -536,6 +536,9 @@ Index to all Projects on GitHub
 |Provider|Project Name|
 |--------|------------|
 |Visual Paradigm|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+||[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
 
 ---
 
@@ -546,7 +549,7 @@ Index to all Projects on GitHub
 
 ---
 
-## VB.Net
+### VB.Net
 |Project Name|
 |------------|
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
