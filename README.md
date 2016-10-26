@@ -74,8 +74,11 @@ Index to all projects in GitHub
 ---
 
 ### Dependency Injection
+
 |DI|Project Name|
+
 |--|------------|
+
 | StructureMap | [AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
 
 ---
