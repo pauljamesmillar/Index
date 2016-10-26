@@ -138,10 +138,8 @@ Index to all Projects on GitHub
 ||[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 |Threads|[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
 ||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
-|Algothims|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
 |Event Handling|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
 ||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
-|Json|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 |Operator Overloading|[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
 |Indexer Methods|[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
 
@@ -154,6 +152,8 @@ Index to all Projects on GitHub
 |Dynamic Sorting & Filtering|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |ZipFiles|[CSharp_ZipFiles](https://github.com/Apollo013/CSharp_ZipFiles)|
+|Json|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
+|Algorithms|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
 
 ---
 
