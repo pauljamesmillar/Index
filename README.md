@@ -2,7 +2,7 @@
 
 ---
 
-Index to all projects in GitHub
+Index to all Projects on GitHub
 
 ---
 ### AJAX
