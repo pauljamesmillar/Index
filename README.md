@@ -40,11 +40,13 @@ Index to all projects in GitHub
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 
+
 #### C# FEATURES
 |Feature|Project Name|
 |-------|------------|
 |Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
 
 #### MISCELLENEOUS FEATURES
 |Feature|Project Name|
@@ -54,10 +56,18 @@ Index to all projects in GitHub
 
 ---
 
+### Data Storage
+|Type|Tech|Project Name|
+|----|----|------------|
+|Caching|ObjectCache|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|Caching|MemoryCache|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+
+---
+
 ### Entity Framework
 |Project Name|
 |------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
 
 ---
 
@@ -101,6 +111,7 @@ Index to all projects in GitHub
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
 
 ---
 
