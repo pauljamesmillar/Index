@@ -122,7 +122,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Communications 
+### Comms/Protocols
 |Type/Feature|Project Name|
 |----|------------|
 |Web Sockets|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
