@@ -165,6 +165,7 @@ Index to all Projects on GitHub
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|File Stream|
 [CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|StreamReader|
 |[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|File/Json|
+|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|BinaryWriter, NetworkStream, BufferedStream, MemoryStream|
 
 
 #### OPERATOR OVERLOADING
@@ -218,6 +219,7 @@ Index to all Projects on GitHub
 |ZipFiles|[CSharp_ZipFiles](https://github.com/Apollo013/CSharp_ZipFiles)|
 |Json|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 |Algorithms|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
+|Images|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
 
 ---
 
@@ -680,4 +682,4 @@ Index to all Projects on GitHub
 |[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
 |[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
-
+|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
