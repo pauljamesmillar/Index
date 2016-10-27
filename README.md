@@ -119,31 +119,50 @@ Index to all Projects on GitHub
 |[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 
 
+#### COLLECTIONS
+|Project Name|
+|------------|
+|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
+|[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
+|[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
+|[CSharp_Collections/Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
+|[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
+|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+
+***
+
+#### Tasks
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
+|[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+|[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
+
+***
+
+#### THREADING
+|Project Name|
+|------------|
+|[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
+|[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+
+
+
+
 |Feature|Project Name|
 |-------|------------|
 |Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|Collections|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
-||[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
-||[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
-||[CSharp_Collections/Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
-||[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
-||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Comparers|[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
 |Enumerators|[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
 |StreamReader|[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|
 |FileStream|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-|Tasks|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-||[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-||[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
-||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
-||[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
-|Threads|[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
-||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 |Event Handling|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
 ||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 |Operator Overloading|[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
