@@ -417,6 +417,13 @@ Index to all Projects on GitHub
 
 ---
 
+## jQuery Mobile
+|Project Name|
+|------------|
+|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+---
+
 ## KnockoutJS 
 |Project Name|
 |------------|
