@@ -42,13 +42,13 @@ Index to all Projects on GitHub
 
 ---
 
-### Apache Cordova
+## Apache Cordova
 |Project Name|
 |------------|
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
 ---
-### Api's - 3rd Party
+## Api's - 3rd Party
 |Plugin|Project Name|
 |------|------------|
 |Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
@@ -57,7 +57,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Azure
+## Azure
 |Service|Project Name|
 |-------|------------|
 |DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
@@ -66,7 +66,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Charts
+## Charts
 |Plugin|Project Name|
 |------|------------|
 |Morris Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
@@ -79,7 +79,7 @@ Index to all Projects on GitHub
 
 ---
 
-### CSS / Bootstrap
+## CSS / Bootstrap
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
@@ -96,7 +96,7 @@ Index to all Projects on GitHub
 
 ---
 
-### C# FEATURES
+## C# FEATURES
 
 #### ATTRIBUTES
 |Project Name|
@@ -219,7 +219,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Comms/Protocols
+## Comms/Protocols
 |Type/Feature|Project Name|
 |----|------------|
 |Web Sockets|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
@@ -236,14 +236,14 @@ Index to all Projects on GitHub
 
 ---
 
-### CrossroadsJS
+## CrossroadsJS
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
-### Cryptography
+## Cryptography
 |Project Name|
 |------------|
 |[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
@@ -253,7 +253,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Data Storage
+## Data Storage
 |Type|Provider|Project Name|
 |----|--------|------------|
 |Caching|.Net|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
@@ -269,7 +269,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Dependency Injection
+## Dependency Injection
 | DI |Project Name|
 |---|------------|
 |StructureMap|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
@@ -277,7 +277,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Design Patterns
+## Design Patterns
 |Pattern|Project Name|
 |-------|------------|
 |Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
@@ -315,7 +315,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Design Principles
+## Design Principles
 |Project Name|
 |------------|
 |[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
@@ -326,7 +326,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Entity Framework / Code First
+## Entity Framework / Code First / MSSQL Server
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -340,7 +340,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Exception Handling / Responses
+## Exception Handling / Responses
 |Features|Project Name|Note|
 |-------|------------|----|
 |Exception, ExceptionFilterAttribute, ExceptionHandler|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Custom ItemNotFound, Global Handler, Global Logger|
@@ -353,21 +353,21 @@ Index to all Projects on GitHub
 
 ---
 
-### GlassFish
+## GlassFish
 |Project Name|
 |------------|
 |[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
 
 ---
 
-### HistoryJS
+## HistoryJS
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
 
-### HTML
+## HTML
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
@@ -381,7 +381,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Java
+## Java
 |Project Name|
 |------------|
 |[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
@@ -391,7 +391,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Javascript / jQuery
+## Javascript / jQuery
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
@@ -407,7 +407,7 @@ Index to all Projects on GitHub
 
 ---
 
-### KnockoutJS 
+## KnockoutJS 
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
@@ -416,7 +416,7 @@ Index to all Projects on GitHub
 
 ---
 
-### LINQ / Dynamic LINQ / Parallel LINQ
+## LINQ / Dynamic LINQ / Parallel LINQ
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -433,14 +433,14 @@ Index to all Projects on GitHub
 
 ---
 
-### Localisation
+## Localisation
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
-### Logging
+## Logging
 |Logging Framework|Project Name|
 |-----------------|------------|
 |Log4Net|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
@@ -449,21 +449,21 @@ Index to all Projects on GitHub
 
 ---
 
-### Mock Data
+## Mock Data
 |Tech|Project Name|
 |----|------------|
 |Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
 ---
 
-### MomentJS
+## MomentJS
 |Project Name|
 |------------|
 |[MomentJS](https://github.com/Apollo013/MomentJS)|
 
 ---
 
-### MongoDB
+## MongoDB
 |Project Name|
 |------------|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
@@ -471,7 +471,7 @@ Index to all Projects on GitHub
 
 ---
 
-### MVC
+## MVC
 |Project Name|
 |------------|
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
@@ -483,14 +483,14 @@ Index to all Projects on GitHub
 
 ---
 
-### NodeJS / ExpressJS
+## NodeJS / ExpressJS
 |Project Name|
 |------------|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 ---
 
-### OWIN
+## OWIN
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -504,7 +504,7 @@ Index to all Projects on GitHub
 
 ---
 
-### RabbitMQ
+## RabbitMQ
 |Project Name|
 |------------|
 |[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
@@ -512,7 +512,7 @@ Index to all Projects on GitHub
 
 ---
 
-### RequireJS
+## RequireJS
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
@@ -522,7 +522,7 @@ Index to all Projects on GitHub
 
 ---
 
-### TextJS 
+## TextJS 
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
@@ -530,14 +530,14 @@ Index to all Projects on GitHub
 
 ---
 
-### Transactions
+## Transactions
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
-### Security
+## Security
 |Feature|Project Name|Note|
 |-------|------------|----|
 |AuthorizeAttribute|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Custom Admin Only|
@@ -578,7 +578,7 @@ Index to all Projects on GitHub
 
 ---
 
-### SignalR
+## SignalR
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR/ChatRooms](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/ChatRooms)|
@@ -586,7 +586,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Testing
+## Testing
 |Test Framework|Program Name|
 |--------------|------------|
 |Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
@@ -596,14 +596,14 @@ Index to all Projects on GitHub
 
 ---
 
-### TomCat
+## TomCat
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
-### UML
+## UML
 |Provider|Project Name|
 |--------|------------|
 |Visual Paradigm|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
@@ -613,14 +613,14 @@ Index to all Projects on GitHub
 
 ---
 
-### VB6
+## VB6
 |Project Name|
 |------------|
 |[VB6_GameOfLifeApp](https://github.com/Apollo013/VB6_GameOfLifeApp)|
 
 ---
 
-### VB.Net
+## VB.Net
 |Project Name|
 |------------|
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
@@ -628,14 +628,14 @@ Index to all Projects on GitHub
 
 ---
 
-### Validation
+## Validation
 |Feature|Project Name|Note|
 |-------|------------|----|
 |ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
 
 ---
 
-### WCF
+## WCF
 |Project Name|
 |------------|
 |[WCF_WindowsManagedService](https://github.com/Apollo013/WCF_WindowsManagedService)|
@@ -646,7 +646,7 @@ Index to all Projects on GitHub
 
 ---
 
-### Web Api 2
+## Web Api 2
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -664,14 +664,14 @@ Index to all Projects on GitHub
 
 ---
 
-### WinForms
+## WinForms
 |Project Name|
 |------------|
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 ---
 
-### WPF
+## WPF
 |Project Name|
 |------------|
 |[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
