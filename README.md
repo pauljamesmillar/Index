@@ -5,13 +5,13 @@
 Index to all Projects on GitHub
 
 ---
-### ADO
+## ADO
 |Project Name|
 |------------|
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 ---
-### AJAX
+## AJAX
 |Project Name|
 |------------|
 |[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
@@ -20,7 +20,7 @@ Index to all Projects on GitHub
 
 ---
 
-### AngularJS
+## AngularJS
 |Project Name|
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
