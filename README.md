@@ -97,26 +97,32 @@ Index to all Projects on GitHub
 ---
 
 ### C# FEATURES
+
+#### EVENTS & DELEGATES
+|Project Name|
+|------------|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+|[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
+|[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+
+
+#### EXTENSION METHODS
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
+
+
 |Feature|Project Name|
 |-------|------------|
 |Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|Extension Methods|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-||[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
-||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-||[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
-|Action Delegate|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-||[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
-||[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
-|Func Delegate|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-||[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
-||[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
-|Anonymous & Named Delegates|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-||[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
 |Collections|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
 ||[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
 ||[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
