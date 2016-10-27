@@ -345,15 +345,21 @@ Index to all Projects on GitHub
 ---
 
 ## Exception Handling / Responses
-|Features|Project Name|Note|
-|-------|------------|----|
-|Exception, ExceptionFilterAttribute, ExceptionHandler|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Custom ItemNotFound, Global Handler, Global Logger|
-|IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|BadRequest, InternalServerError, NotFound, NotImplemented|
-||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
-||[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
-||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)||
-|DbEntityValidationException|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Exception Handling override for DbContext.SaveChanges|
-|ActionResult|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
+
+#### EXCEPTION HANDLING
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|'Exception, ExceptionFilterAttribute, ExceptionHandler' - Custom ItemNotFound, Global Handler, Global Logger|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'DbEntityValidationException' -Custom Exception Handling override for DbContext.SaveChanges|
+
+#### RESPONSES
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'IHttpActionResult' - BadRequest, InternalServerError, NotFound, NotImplemented|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)||
+|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
 
 ---
 
