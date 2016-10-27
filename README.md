@@ -138,6 +138,7 @@ Index to all Projects on GitHub
 |[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 
 
 #### EXTENSION METHODS
@@ -163,6 +164,7 @@ Index to all Projects on GitHub
 |------------|----|
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|File Stream|
 [CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|StreamReader|
+|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|File/Json|
 
 
 #### OPERATOR OVERLOADING
