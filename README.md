@@ -98,6 +98,36 @@ Index to all Projects on GitHub
 
 ### C# FEATURES
 
+#### ATTRIBUTES
+|Project Name|
+|------------|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
+
+
+#### COLLECTIONS
+|Project Name|
+|------------|
+|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
+|[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
+|[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
+|[CSharp_Collections/Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
+|[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
+|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+
+
+#### COMPARERS
+|Project Name|
+|------------|
+|[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
+
+
+#### ENUMERATORS
+|Project Name|
+|------------|
+|[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
+
+
 #### EVENTS & DELEGATES
 |Project Name|
 |------------|
@@ -106,6 +136,8 @@ Index to all Projects on GitHub
 |[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
 |[CSharp_Delegates](https://github.com/Apollo013/CSharp_Delegates)|
 |[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
+|[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 
 
 #### EXTENSION METHODS
@@ -119,19 +151,41 @@ Index to all Projects on GitHub
 |[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 
 
-#### COLLECTIONS
+#### INDEXER METHODS
 |Project Name|
 |------------|
-|[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
-|[CSharp_Collections/Generic](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Generic)|
-|[CSharp_Collections/Immutable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Immutable)|
-|[CSharp_Collections/Observable](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Observable)|
-|[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
-|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+|[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
+|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
 
-***
 
-#### Tasks
+#### IO
+|Project Name|Note|
+|------------|----|
+|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|File Stream|
+[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|StreamReader|
+
+
+#### OPERATOR OVERLOADING
+|Project Name|
+|------------|
+|[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
+
+
+#### PREDICATES
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+
+#### REFLECTION
+|Project Name|
+|------------|
+|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
+|[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern/Factories/Concrete)|
+
+
+#### TASKS
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
@@ -144,34 +198,12 @@ Index to all Projects on GitHub
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 |[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 
-***
 
 #### THREADING
 |Project Name|
 |------------|
 |[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
-
-
-
-
-|Feature|Project Name|
-|-------|------------|
-|Predicates|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|Comparers|[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
-|Enumerators|[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
-|StreamReader|[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/blob/master/CSharpCollections/Enumerators/StreamReaderEnumerator.cs)|
-|FileStream|[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-|Event Handling|[CSharp_EventsAndDelegates](https://github.com/Apollo013/CSharp_EventsAndDelegates)|
-||[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
-|Operator Overloading|[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
-|Indexer Methods|[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
-|Attributes|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
-|Reflection|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
-||[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern/Factories/Concrete)|
 
 
 #### C# MISCELLENEOUS FEATURES
