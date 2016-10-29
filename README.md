@@ -48,12 +48,23 @@ Index to all Projects on GitHub
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
 ---
+
 ## Api's - 3rd Party
 |Plugin|Project Name|
 |------|------------|
 |Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+---
+
+## App / Web Servers
+
+|Server|Project Name|
+|------|------------|
+|TomCat|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|GlassFish|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|IIS|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
 
 ---
 
@@ -361,13 +372,6 @@ Index to all Projects on GitHub
 
 ---
 
-## GlassFish
-|Project Name|
-|------------|
-|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
-
----
-
 ## HistoryJS
 |Project Name|
 |------------|
@@ -649,13 +653,6 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 ||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |JUnit|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-
----
-
-## TomCat
-|Project Name|
-|------------|
-|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
