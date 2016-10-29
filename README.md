@@ -576,14 +576,14 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 
 
-#### FILTERS & ATTRIBUTES
+#### FILTERS, ATTRIBUTES & VALIDATION
 |Feature|Project Name|Note|
 |-------|------------|----|
 |AuthorizeAttribute|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Custom Admin Only|
 |AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
 ||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking|
 |IAuthenticationFilter|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
-
+|ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
 
 #### OAUTH2 / JSON WEB TOKENS
 |Project Name|Note|
@@ -591,7 +591,8 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|OAuthAuthorizationServerProvider|
 
-#### PASSWORD & USER VALIDATION
+
+#### PASSWORD & USER VALIDATORS
 |Project Name|
 |------------|
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
@@ -679,12 +680,6 @@ Index to all Projects on GitHub
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 |[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 
----
-
-## Validation
-|Feature|Project Name|Note|
-|-------|------------|----|
-|ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
 
 ---
 
