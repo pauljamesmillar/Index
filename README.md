@@ -584,6 +584,8 @@ Index to all Projects on GitHub
 ||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking|
 |IAuthenticationFilter|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
 |ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
+IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom BadRequest, InternalServerError, NotFound|
+
 
 #### OAUTH2 / JSON WEB TOKENS
 |Project Name|Note|
