@@ -212,7 +212,7 @@ Index to all Projects on GitHub
 #### C# MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
-|Paging, |Dynamic Sorting & Filtering|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|Paging, Dynamic Sorting & Filtering|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |ZipFiles|[CSharp_ZipFiles](https://github.com/Apollo013/CSharp_ZipFiles)|
 |Json|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
