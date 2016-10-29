@@ -244,7 +244,7 @@ Index to all Projects on GitHub
 |Tcp|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
 |Pipes|[DotNet_Communications_Pipes](https://github.com/Apollo013/DotNet_Communications_Pipes)|
 |Multipart Messages|[DotNet_Communications_MultipartMessage](https://github.com/Apollo013/DotNet_Communications_MultipartMessage)|
-|RabbitMQ|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
+|AMQP|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
 ||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
 ---
