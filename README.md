@@ -99,10 +99,10 @@ Index to all Projects on GitHub
 ## C# FEATURES
 
 #### ATTRIBUTES
-|Project Name|
-|------------|
-|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
+|Project Name|Note|
+|------------|----|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|CollectionNameAttribute used by reflection to identify table name|
+|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)||
 
 
 #### COLLECTIONS
