@@ -356,7 +356,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'IHttpActionResult' - BadRequest, InternalServerError, NotFound, NotImplemented|
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
-|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)||
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|CreatedActionResult |
 |[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
 
 ---
