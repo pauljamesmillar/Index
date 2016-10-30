@@ -50,8 +50,8 @@ Index to all Projects on GitHub
 ---
 
 ## Api's - 3rd Party
-|Plugin|Project Name|
-|------|------------|
+|Service|Plugin|Project Name|
+|-------|------|------------|
 |Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
