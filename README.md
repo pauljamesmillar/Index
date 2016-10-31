@@ -10,7 +10,8 @@ Index to all Projects on GitHub
 1. [Architecture, Patterns & Principles](#ARCHITECTURE)
   1. [Design Patterns](#DESIGNPATTERNS) 
   2. [Design Principles](#DESIGNPRINCIPLES) 
-2. Client Side Frameworks & Plugins
+2. [Client Side Frameworks & Plugins](#CLIENTSIDE)
+
 
 ##### Table of Contents  
 [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)  
@@ -70,12 +71,9 @@ Index to all Projects on GitHub
 
 ---
 
-## ADO
-|Project Name|
-|------------|
-|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+<a name="CLIENTSIDE"/>
+# Client Side Frameworks & Plugins
 
----
 ## AJAX
 |Project Name|
 |------------|
@@ -83,7 +81,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
 
----
+<hr>
 
 ## AngularJS
 |Project Name|
@@ -104,6 +102,19 @@ Index to all Projects on GitHub
 |Toastr|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |LoadingBar|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |ng-Table|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)| 
+---
+
+## ADO
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+
+---
+
+
+---
+
+
 
 ---
 
