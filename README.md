@@ -8,8 +8,8 @@ Index to all Projects on GitHub
 
 #### TABLE OF CONTENTS
 1. [Architecture, Patterns & Principles](#ARCHITECTURE)
-  *. [Design Patterns](#DESIGNPATTERNS) 
-  *. [Design Principles](#DESIGNPRINCIPLES) 
+  * [Design Patterns](#DESIGNPATTERNS) 
+  * [Design Principles](#DESIGNPRINCIPLES) 
 2. [Client Side Frameworks & Plugins](#CLIENTSIDE)
   *. [Ajax](#AJAX)
   *. [AngularJS](#AngularJS)
