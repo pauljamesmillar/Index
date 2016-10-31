@@ -11,8 +11,13 @@ Index to all Projects on GitHub
 ..*. Design Patterns
 ..*. Design Principles
 
+##### Table of Contents  
+## [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)  
+[RequireJS](#REQUIREJS)  
+
 ---
 
+<a name="ARCHITECTURE"/>
 ## ARCHITECTURE, PATTERNS & PRINCIPLES
 
 ### Design Patterns
@@ -540,7 +545,7 @@ Index to all Projects on GitHub
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
 ---
-
+<a name="REQUIREJS"/>
 ## RequireJS
 |Project Name|
 |------------|
