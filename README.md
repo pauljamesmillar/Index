@@ -5,6 +5,64 @@
 Index to all Projects on GitHub
 
 ---
+
+#### TABLE OF CONTENTS
+1. ARCHITECTURE, PATTERNS & PRINCIPLES
+..1. Design Patterns
+..2. Design Principles
+
+---
+
+## ARCHITECTURE, PATTERNS & PRINCIPLES
+
+### Design Patterns
+|Pattern|Project Name|
+|-------|------------|
+|Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
+||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Builder|[DotNet_DesignPatterns_CreationalPatterns/BuilderPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/BuilderPattern)|
+|Chain Of Reponsibility|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Command|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|Composite|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|CQRS|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|DAO|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
+||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Facade|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+||[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern)|
+||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|Observer|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|MVVM|[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
+||[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
+|Prototype|[DotNet_DesignPatterns_CreationalPatterns/PrototypePattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/PrototypePattern)|
+|Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|Singleton|[DotNet_DesignPatterns_CreationalPatterns/SingletonPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/SingletonPattern)|
+||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+
+### Design Principles
+|Project Name|
+|------------|
+|[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/OpenClosedPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/OpenClosedPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/LiskovSubstitutionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/LiskovSubstitutionPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/InterfaceSegregationPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/InterfaceSegregationPrinciple)|
+|[DotNet_DesignPrinciples_SOLID/DependencyInversionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/DependencyInversionPrinciple)|
+
+---
+
 ## ADO
 |Project Name|
 |------------|
@@ -289,54 +347,7 @@ Index to all Projects on GitHub
 
 ---
 
-## Design Patterns
-|Pattern|Project Name|
-|-------|------------|
-|Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
-||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|Builder|[DotNet_DesignPatterns_CreationalPatterns/BuilderPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/BuilderPattern)|
-|Chain Of Reponsibility|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-|Command|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|Composite|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|CQRS|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-|DAO|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
-||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|Facade|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-||[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern)|
-||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-|Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-|Observer|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-|MVVM|[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
-||[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
-|Prototype|[DotNet_DesignPatterns_CreationalPatterns/PrototypePattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/PrototypePattern)|
-|Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
-||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-|Singleton|[DotNet_DesignPatterns_CreationalPatterns/SingletonPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/SingletonPattern)|
-||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-|Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
----
-
-## Design Principles
-|Project Name|
-|------------|
-|[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
-|[DotNet_DesignPrinciples_SOLID/OpenClosedPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/OpenClosedPrinciple)|
-|[DotNet_DesignPrinciples_SOLID/LiskovSubstitutionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/LiskovSubstitutionPrinciple)|
-|[DotNet_DesignPrinciples_SOLID/InterfaceSegregationPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/InterfaceSegregationPrinciple)|
-|[DotNet_DesignPrinciples_SOLID/DependencyInversionPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/DependencyInversionPrinciple)|
-
----
 
 ## Entity Framework / Code First / MSSQL Server
 |Project Name|
