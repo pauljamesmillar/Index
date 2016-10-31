@@ -8,8 +8,8 @@ Index to all Projects on GitHub
 
 #### TABLE OF CONTENTS
 1. [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)
-* Design Patterns
-* Design Principles
+  * Design Patterns
+  * Design Principles
 
 ##### Table of Contents  
 [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)  
