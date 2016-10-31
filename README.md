@@ -7,9 +7,10 @@ Index to all Projects on GitHub
 ---
 
 #### TABLE OF CONTENTS
-1. [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)
-  1. Design Patterns
-  2. Design Principles
+1. [Architecture, Patterns & Principles](#ARCHITECTURE)
+  1. [Design Patterns](#DESIGNPATTERNS) 
+  2. [Design Principles](#DESIGNPRINCIPLES) 
+2. Client Side Frameworks & Plugins
 
 ##### Table of Contents  
 [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)  
@@ -20,6 +21,7 @@ Index to all Projects on GitHub
 <a name="ARCHITECTURE"/>
 # ARCHITECTURE, PATTERNS & PRINCIPLES
 
+<a name="DESIGNPATTERNS"/>
 ### Design Patterns
 |Pattern|Project Name|
 |-------|------------|
@@ -56,7 +58,7 @@ Index to all Projects on GitHub
 |Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
-
+<a name="DESIGNPRINCIPLES"/>
 ### Design Principles
 |Project Name|
 |------------|
