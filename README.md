@@ -95,14 +95,12 @@ Index to all Projects on GitHub
 |------------|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
-|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
@@ -410,7 +408,6 @@ Index to all Projects on GitHub
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|
-|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
@@ -418,12 +415,12 @@ Index to all Projects on GitHub
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
----
 
-## jQuery Mobile
+#### jQUERY PLUGINS
 |Project Name|
 |------------|
-|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+|jQuery Mobile|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+|jQuery unobtrusive validation|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
 
 ---
 
