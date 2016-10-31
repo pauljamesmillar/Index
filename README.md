@@ -7,12 +7,12 @@ Index to all Projects on GitHub
 ---
 
 #### TABLE OF CONTENTS
-1. ARCHITECTURE, PATTERNS & PRINCIPLES
-..*. Design Patterns
-..*. Design Principles
+1. [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)
+* Design Patterns
+* Design Principles
 
 ##### Table of Contents  
-## [ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)  
+[ARCHITECTURE, PATTERNS & PRINCIPLES](#ARCHITECTURE)  
 [RequireJS](#REQUIREJS)  
 
 ---
