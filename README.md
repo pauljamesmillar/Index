@@ -417,8 +417,8 @@ Index to all Projects on GitHub
 
 
 #### jQUERY PLUGINS
-|Plugin||Project Name|
-|-----|------------|
+|Plugin|Project Name|
+|------|------------|
 |jQuery Mobile|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |jQuery unobtrusive validation|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
 
