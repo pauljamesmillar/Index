@@ -18,7 +18,7 @@ Index to all Projects on GitHub
 ---
 
 <a name="ARCHITECTURE"/>
-## ARCHITECTURE, PATTERNS & PRINCIPLES
+# ARCHITECTURE, PATTERNS & PRINCIPLES
 
 ### Design Patterns
 |Pattern|Project Name|
