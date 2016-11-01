@@ -647,7 +647,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
 
 <a name="WebApi"/>
-## Web Api 2
+## Web Api 2 / OWIN
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
