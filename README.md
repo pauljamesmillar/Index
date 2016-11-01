@@ -46,12 +46,17 @@ Index to all Projects on GitHub
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
 5. [Miscellaneous Frameworks](#MISC)
+  * [Apache Cordova](#Apache)
+  * [Api's - 3rd Party](#API)
   * [Dependency Injection / IoC](#DI)
+  * [Java](#Java)
   * [Logging Frameworks](#LOGGING)
+  * [Mock Data](#Mock)
+  * [RabbitMQ](#RabbitMQ)
   * [Servers](#Servers)
   * [Testing Frameworks](#TESTING)
   * [UML](#UML)
-    
+   
 ---
 
 <a name="ARCHITECTURE"/>
@@ -579,7 +584,23 @@ Index to all Projects on GitHub
 ---
 
 <a name="MISC"/>  
-# Miscellaneous Framweworks
+# Miscellaneous Frameworks
+
+<a name="Apache"/>
+## Apache Cordova
+|Project Name|
+|------------|
+|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+
+<a name="API"/>
+## Api's - 3rd Party
+|Service|Api|Project Name|
+|-------|---|------------|
+|Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+|Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
 
 <a name="DI"/>
 ## Dependency Injection
@@ -588,6 +609,15 @@ Index to all Projects on GitHub
 |StructureMap|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
 |Ninject|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
+<a name="Java"/>
+## Java
+|Project Name|
+|------------|
+|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|[Java_DataStructures](https://github.com/Apollo013/Java_DataStructures)|
+|[Java_Algorithms](https://github.com/Apollo013/Java_Algorithms)|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
 <a name="LOGGING"/>
 ## Logging
 |Logging Framework|Project Name|
@@ -595,6 +625,21 @@ Index to all Projects on GitHub
 |Log4Net|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |NLog|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 |Log4J|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+
+<a name="Mock"/>
+## Mock Data
+|Tech|Project Name|
+|----|------------|
+|Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+<a name="RabbitMQ"/>
+## RabbitMQ
+|Project Name|
+|------------|
+|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
+|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
+
 
 <a name="Servers"/>
 ## Servers
@@ -622,61 +667,6 @@ Index to all Projects on GitHub
 ||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 ||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
 
-
-<hr>
-## Apache Cordova
-|Project Name|
-|------------|
-|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-
----
-
-## Api's - 3rd Party
-|Service|Api|Project Name|
-|-------|---|------------|
-|Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-|Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-
-
----
-
-## Java
-|Project Name|
-|------------|
-|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
-|[Java_DataStructures](https://github.com/Apollo013/Java_DataStructures)|
-|[Java_Algorithms](https://github.com/Apollo013/Java_Algorithms)|
-|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-
----
-
-
----
-
-## Localisation
-|Project Name|
-|------------|
-|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-
----
-
-
----
-
-## Mock Data
-|Tech|Project Name|
-|----|------------|
-|Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-
----
-
-
-
----
-
-
-
 ---
 
 ## NodeJS / ExpressJS
@@ -687,20 +677,6 @@ Index to all Projects on GitHub
 
 ---
 
-## RabbitMQ
-|Project Name|
-|------------|
-|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
-|[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
-
----
-
-## Transactions
-|Project Name|
-|------------|
-|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-
----
 
 ## Security
 
