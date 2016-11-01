@@ -637,7 +637,7 @@ Index to all Projects on GitHub
 
 <a name="Mock"/>
 ## Mock Data
-|Tech|Project Name|
+|Provider|Project Name|
 |----|------------|
 |Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 
