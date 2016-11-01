@@ -26,7 +26,7 @@ Index to all Projects on GitHub
 3. [Data Storage](#DataStorage)
   * [Access](#Access)
   * [Block Storage (Azure)](#BLOBSTORAGE)
-  * [Caching ((.Net))](#Caching)
+  * [Caching (.Net)](#Caching)
   * [DocumentDB](#DocumentDB)
   * [Local Storage](#localstorage)
   * [MongoDB](#MongoDB)
@@ -255,7 +255,7 @@ Index to all Projects on GitHub
 ## Block Storage (Azure)
 |Project Name|
 |------------|
-|[Azure_BlockStorag](https://github.com/Apollo013/Azure_BlockStorage)|
+|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
 
 <a name="Caching"/>
 ## Caching (.Net)
