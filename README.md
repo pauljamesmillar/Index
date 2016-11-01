@@ -38,14 +38,10 @@ Index to all Projects on GitHub
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
 4. [Miscellaneous Framweworks](#MISC)
-  * [Dependency Injection / IoC(#DI)
-    * [StructureMap](#StructureMap)
-    * [Ninject](#ninject)
-  * [Testing Frameworks](#TESTING)
-    * [Visual Studio Tools](#VSTOOLS)
-    * [jUnit](#jUnit) 
+  * [Dependency Injection / IoC](#DI)
   * [Logging Frameworks](#LOGGING)
-   * [nLog](#nlog)
+  * [Testing Frameworks](#TESTING)
+  
     
 ---
 
@@ -281,6 +277,14 @@ Index to all Projects on GitHub
 |[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
 
 
+### Cryptography
+|Project Name|
+|------------|
+|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
+|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
+|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
+|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
+
 ### ENUMERATORS
 |Project Name|
 |------------|
@@ -299,6 +303,12 @@ Index to all Projects on GitHub
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 |[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 
+
+#### EXCEPTION HANDLING
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|'Exception, ExceptionFilterAttribute, ExceptionHandler' - Custom ItemNotFound, Global Handler, Global Logger|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'DbEntityValidationException' -Custom Exception Handling override for DbContext.SaveChanges|
 
 ### EXTENSION METHODS
 |Project Name|
@@ -347,6 +357,14 @@ Index to all Projects on GitHub
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
 |[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern/Factories/Concrete)|
 
+### RESPONSES
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'IHttpActionResult' - BadRequest, InternalServerError, NotFound, NotImplemented|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|CreatedActionResult |
+|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
 
 ### TASKS
 |Project Name|
@@ -487,6 +505,34 @@ Index to all Projects on GitHub
 
 ---
 
+<a name="MISC"/>  
+# Miscellaneous Framweworks
+
+<a name="DI"/>
+## Dependency Injection
+| DI |Project Name|
+|---|------------|
+|StructureMap|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
+|Ninject|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+<a name="LOGGING"/>
+## Logging
+|Logging Framework|Project Name|
+|-----------------|------------|
+|Log4Net|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|NLog|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
+|Log4J|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+<a name="TESTING"/>
+## Testing
+|Test Framework|Program Name|
+|--------------|------------|
+|Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|JUnit|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+<hr>
 ## Apache Cordova
 |Project Name|
 |------------|
@@ -532,13 +578,7 @@ Index to all Projects on GitHub
 
 ---
 
-## Cryptography
-|Project Name|
-|------------|
-|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
-|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
-|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
-|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
+
 
 ---
 
@@ -556,36 +596,11 @@ Index to all Projects on GitHub
 |Sql|MySql|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |Sql|Access|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
----
-
-## Dependency Injection
-| DI |Project Name|
-|---|------------|
-|StructureMap|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
-|Ninject|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-
----
-
-
 
 ---
 
 ## Exception Handling / Responses
 
-#### EXCEPTION HANDLING
-|Project Name|Note|
-|------------|----|
-|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|'Exception, ExceptionFilterAttribute, ExceptionHandler' - Custom ItemNotFound, Global Handler, Global Logger|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'DbEntityValidationException' -Custom Exception Handling override for DbContext.SaveChanges|
-
-#### RESPONSES
-|Project Name|Note|
-|------------|----|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'IHttpActionResult' - BadRequest, InternalServerError, NotFound, NotImplemented|
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|Authentication Failure, Challenge Result|
-|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|Created Result, not Authorized, InternalServerError|
-|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|CreatedActionResult |
-|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
 
 ---
 
@@ -609,12 +624,6 @@ Index to all Projects on GitHub
 
 ---
 
-## Logging
-|Logging Framework|Project Name|
-|-----------------|------------|
-|Log4Net|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|NLog|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
-|Log4J|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
@@ -742,13 +751,6 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 
 ---
 
-## Testing
-|Test Framework|Program Name|
-|--------------|------------|
-|Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|JUnit|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 ---
 
