@@ -36,7 +36,7 @@ Index to all Projects on GitHub
   * [ADO](#ADO)
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
-  * [EntityFramework](#EntityFramework)
+  * [EntityFramework / Code First](#EntityFramework)
   * [Identity, Cryptography & Security](#Identity)
   * [LINQ / DLINQ / PLINQ](#LINQ)
   * [MVC](#MVC)
@@ -493,7 +493,7 @@ Index to all Projects on GitHub
 
 
 <a name="Identity"/>
-## Identity & Security
+## Identity, Cryptography & Security
 
 #### API KEY AUTHENTICATION
 |Project Name|Note|
