@@ -26,7 +26,7 @@ Index to all Projects on GitHub
 3. [Data Storage](#DataStorage)
   * [Access](#Access)
   * [Block Storage (Azure)](#BLOBSTORAGE)
-  * [Caching](#Caching)
+  * [Caching ((.Net))](#Caching)
   * [DocumentDB](#DocumentDB)
   * [Local Storage](#localstorage)
   * [MongoDB](#MongoDB)
@@ -246,46 +246,46 @@ Index to all Projects on GitHub
 # Data Storage
 
 <a name="Access"/>
-## ACCESS
+## Access
 |Project Name|
 |------------|
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 <a name="BLOBSTORAGE"/>
-## BLOCK STORAGE (Azure)
+## Block Storage (Azure)
 |Project Name|
 |------------|
 |[Azure_BlockStorag](https://github.com/Apollo013/Azure_BlockStorage)|
 
 <a name="Caching"/>
-## CACHING
+## Caching (.Net)
 |Project Name|
 |------------|
 |[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
 |[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 
 <a name="DocumentDB"/>
-## DOCUMENT DB
+## DocumentDB
 |Project Name|
 |------------|
 |[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |[NoSql_DocumentD](https://github.com/Apollo013/NoSql_DocumentDB)|
 
 <a name="localstorage"/>
-## LOCAL STORAGE
+## Local Storage
 |Project Name|
 |------------|
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
 <a name="MongoDB"/>
-## MONGO DB
+## MongoDB
 |Project Name|
 |------------|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 <a name="MySql"/>
-## MYSQL
+## MySql
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
@@ -302,7 +302,7 @@ Index to all Projects on GitHub
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 <a name="Azure"/>
-## AZURE
+## Azure
 |Service|Project Name|
 |-------|------------|
 |DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
@@ -310,7 +310,7 @@ Index to all Projects on GitHub
 |Block Storage|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
 
 <a name="CSHARP"/>
-## C# FEATURES
+## C# Features
 
 #### ATTRIBUTES
 |Project Name|Note|
