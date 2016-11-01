@@ -37,12 +37,12 @@ Index to all Projects on GitHub
   * [Web Api 2](#WebApi)
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
-4. [Miscellaneous Framweworks](#MISC)
+4. [Miscellaneous Frameworks](#MISC)
   * [Dependency Injection / IoC](#DI)
   * [Logging Frameworks](#LOGGING)
   * [Servers](#Servers)
   * [Testing Frameworks](#TESTING)
-  
+  * [UML](#UML)
     
 ---
 
@@ -271,6 +271,20 @@ Index to all Projects on GitHub
 |[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 
+#### COMMUNICATIONS / PROTOCOLS
+|Type/Feature|Project Name|
+|----|------------|
+|Web Sockets|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|HttpClient|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
+||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+||[DotNet_Communications_HttpClient](https://github.com/Apollo013/DotNet_Communications_HttpClient)|
+||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
+|Tcp|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
+|Pipes|[DotNet_Communications_Pipes](https://github.com/Apollo013/DotNet_Communications_Pipes)|
+|Multipart Messages|[DotNet_Communications_MultipartMessage](https://github.com/Apollo013/DotNet_Communications_MultipartMessage)|
+|AMQP|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
+||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
 #### COMPARERS
 |Project Name|
@@ -541,6 +555,16 @@ Index to all Projects on GitHub
 |FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |JUnit|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
+<a name="UML"/>
+## UML
+|Provider|Project Name|
+|--------|------------|
+|Visual Paradigm|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+||[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
+
+
 <hr>
 ## Apache Cordova
 |Project Name|
@@ -559,29 +583,6 @@ Index to all Projects on GitHub
 
 ---
 
-
-## Comms/Protocols
-|Type/Feature|Project Name|
-|----|------------|
-|Web Sockets|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
-|HttpClient|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
-||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-||[DotNet_Communications_HttpClient](https://github.com/Apollo013/DotNet_Communications_HttpClient)|
-||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
-|Tcp|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
-|Pipes|[DotNet_Communications_Pipes](https://github.com/Apollo013/DotNet_Communications_Pipes)|
-|Multipart Messages|[DotNet_Communications_MultipartMessage](https://github.com/Apollo013/DotNet_Communications_MultipartMessage)|
-|AMQP|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
-||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
-
-
----
-
-
-
----
-
 ## Data Storage
 |Type|Provider|Project Name|
 |----|--------|------------|
@@ -595,11 +596,6 @@ Index to all Projects on GitHub
 |Blob|Azure Block Storage|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
 |Sql|MySql|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |Sql|Access|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
-
-
----
-
-## Exception Handling / Responses
 
 
 ---
@@ -749,17 +745,3 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |Audience Keys|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
 |Email Confirmation|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Gmail|
 
----
-
-
----
-
-## UML
-|Provider|Project Name|
-|--------|------------|
-|Visual Paradigm|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-||[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
-
----
