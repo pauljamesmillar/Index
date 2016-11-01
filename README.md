@@ -398,6 +398,13 @@ Index to all Projects on GitHub
 |[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
 
+<a name="SignalR"/>
+## SignalR
+|Project Name|
+|------------|
+|[AspNet_MVC5_KnockoutJS_SignalR/ChatRooms](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/ChatRooms)|
+|[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
+
 <a name="VB6"/>
 ## VB6
 |Project Name|
@@ -621,19 +628,6 @@ Index to all Projects on GitHub
 |------------|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
----
-
-## OWIN
-|Project Name|
-|------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 
 ---
 
@@ -731,14 +725,6 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |CORS|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
 |Audience Keys|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
 |Email Confirmation|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Gmail|
-
----
-
-## SignalR
-|Project Name|
-|------------|
-|[AspNet_MVC5_KnockoutJS_SignalR/ChatRooms](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/ChatRooms)|
-|[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
 
 ---
 
