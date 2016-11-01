@@ -40,6 +40,7 @@ Index to all Projects on GitHub
 4. [Miscellaneous Framweworks](#MISC)
   * [Dependency Injection / IoC](#DI)
   * [Logging Frameworks](#LOGGING)
+  * [Servers](#Servers)
   * [Testing Frameworks](#TESTING)
   
     
@@ -253,14 +254,14 @@ Index to all Projects on GitHub
 <a name="CSHARP"/>
 ## C# FEATURES
 
-### ATTRIBUTES
+#### ATTRIBUTES
 |Project Name|Note|
 |------------|----|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|CollectionNameAttribute used by reflection to identify table name|
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)||
 
 
-### COLLECTIONS
+#### COLLECTIONS
 |Project Name|
 |------------|
 |[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
@@ -271,13 +272,13 @@ Index to all Projects on GitHub
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 
 
-### COMPARERS
+#### COMPARERS
 |Project Name|
 |------------|
 |[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
 
 
-### Cryptography
+#### CRYPTOGRAPHY
 |Project Name|
 |------------|
 |[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
@@ -285,13 +286,13 @@ Index to all Projects on GitHub
 |[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
 |[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
 
-### ENUMERATORS
+#### ENUMERATORS
 |Project Name|
 |------------|
 |[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
 
 
-### EVENTS & DELEGATES
+#### EVENTS & DELEGATES
 |Project Name|
 |------------|
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
@@ -310,7 +311,7 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|'Exception, ExceptionFilterAttribute, ExceptionHandler' - Custom ItemNotFound, Global Handler, Global Logger|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'DbEntityValidationException' -Custom Exception Handling override for DbContext.SaveChanges|
 
-### EXTENSION METHODS
+#### EXTENSION METHODS
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -321,7 +322,7 @@ Index to all Projects on GitHub
 |[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 
 
-### INDEXER METHODS
+#### INDEXER METHODS
 |Project Name|
 |------------|
 |[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
@@ -329,7 +330,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
 
 
-### IO
+#### IO
 |Project Name|Note|
 |------------|----|
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|File Stream|
@@ -338,26 +339,26 @@ Index to all Projects on GitHub
 |[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|BinaryWriter, NetworkStream, BufferedStream, MemoryStream|
 
 
-### OPERATOR OVERLOADING
+#### OPERATOR OVERLOADING
 |Project Name|
 |------------|
 |[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
 
 
-### PREDICATES
+#### PREDICATES
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 
-### REFLECTION
+#### REFLECTION
 |Project Name|
 |------------|
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
 |[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern/Factories/Concrete)|
 
-### RESPONSES
+#### RESPONSES
 |Project Name|Note|
 |------------|----|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'IHttpActionResult' - BadRequest, InternalServerError, NotFound, NotImplemented|
@@ -366,7 +367,7 @@ Index to all Projects on GitHub
 |[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|CreatedActionResult |
 |[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
 
-### TASKS
+#### TASKS
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
@@ -380,14 +381,14 @@ Index to all Projects on GitHub
 |[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 
 
-### THREADING
+#### THREADING
 |Project Name|
 |------------|
 |[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 
 
-### C# MISCELLENEOUS FEATURES
+#### C# MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
 |Paging, Dynamic Sorting & Filtering|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -523,6 +524,14 @@ Index to all Projects on GitHub
 |NLog|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 |Log4J|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
+<a name="Servers"/>
+## Servers
+|Server|Project Name|
+|------|------------|
+|TomCat|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|GlassFish|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|IIS|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
+
 <a name="TESTING"/>
 ## Testing
 |Test Framework|Program Name|
@@ -547,15 +556,6 @@ Index to all Projects on GitHub
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
----
-
-## App / Web Servers
-
-|Server|Project Name|
-|------|------------|
-|TomCat|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|GlassFish|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
-|IIS|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
 
 ---
 
