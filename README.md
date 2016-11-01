@@ -29,6 +29,7 @@ Index to all Projects on GitHub
   * [C# Features](#CSHARP)
   * [EntityFramework](#EntityFramework)
   * [LINQ](#LINQ)
+  * [SignalR](#SignalR)
   * [VB6](#VB6)
   * [VB.Net](#VB)
   * [WCF](#WCF)
