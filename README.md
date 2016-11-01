@@ -23,7 +23,19 @@ Index to all Projects on GitHub
   * [MomentJS](#MomentJS)
   * [RequireJS](#REQUIREJS)
   * [TextJS](#TextJS)
-
+3. [Microsoft Technologies](#MICROSOFT)
+  * [ADO](#ADO)
+  * [Azure](#Azure)
+  * [C# Features](#CSHARP)
+  * [EntityFramework](#EntityFramework)
+  * [LINQ](#LINQ)
+  * [VB6](#VB6)
+  * [VB.Net](#VB)
+  * [WCF](#WCF)
+  * [Web Api 2](#WebApi)
+  * [WinForms](#WinForms)
+  * [WPF / Xaml](#WPF)
+  
 ---
 
 <a name="ARCHITECTURE"/>
@@ -213,40 +225,17 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
+  
+<a name="MICROSOFT"/>  
+#  Microsoft Technologies
 
+<a name="ADO"/>
 ## ADO
 |Project Name|
 |------------|
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
----
-
-## Apache Cordova
-|Project Name|
-|------------|
-|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-
----
-
-## Api's - 3rd Party
-|Service|Api|Project Name|
-|-------|---|------------|
-|Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-|Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-
----
-
-## App / Web Servers
-
-|Server|Project Name|
-|------|------------|
-|TomCat|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|GlassFish|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
-|IIS|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
-
----
-
+<a name="Azure"/>
 ## Azure
 |Service|Project Name|
 |-------|------------|
@@ -254,8 +243,7 @@ Index to all Projects on GitHub
 |DocumentDB|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
 |Block Storage|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
 
----
-
+<a name="CSHARP"/>
 ## C# FEATURES
 
 #### ATTRIBUTES
@@ -380,7 +368,121 @@ Index to all Projects on GitHub
 |Algorithms|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
 |Images|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
 
+
+<a name="EntityFramework"/>
+## Entity Framework / Code First
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+
+<a name="LINQ"/>
+## LINQ / Dynamic LINQ / Parallel LINQ
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|[CSharp_PLINQ](https://github.com/Apollo013/CSharp_PLINQ)|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+|[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
+|[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
+
+<a name="VB6"/>
+## VB6
+|Project Name|
+|------------|
+|[VB6_GameOfLifeApp](https://github.com/Apollo013/VB6_GameOfLifeApp)|
+
+<a name="VB"/>
+## VB.Net
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
+
+<a name="WCF"/>
+## WCF
+|Project Name|
+|------------|
+|[WCF_WindowsManagedService](https://github.com/Apollo013/WCF_WindowsManagedService)|
+|[WCF_Versioning_Strategies](https://github.com/Apollo013/WCF_Versioning_Strategies)|
+|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|[WCF_HelloWorld](https://github.com/Apollo013/WCF_HelloWorld)|
+|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
+
+<a name="WebApi"/>
+## Web Api 2
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|[AspNet_WebApi2_MultiPipeLine](https://github.com/Apollo013/AspNet_WebApi2_MultiPipeLine)|
+|[AspNet_WebApi2_SelfHost](https://github.com/Apollo013/AspNet_WebApi2_SelfHost)|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
+|[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+
+<a name="WinForms"/>
+## WinForms
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+
+<a name="WPF"/>
+## WPF / Xaml
+|Project Name|
+|------------|
+|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
+|[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
+|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
+|[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
+|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
+
+
 ---
+
+## Apache Cordova
+|Project Name|
+|------------|
+|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+---
+
+## Api's - 3rd Party
+|Service|Api|Project Name|
+|-------|---|------------|
+|Google|Maps|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+|Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+---
+
+## App / Web Servers
+
+|Server|Project Name|
+|------|------------|
+|TomCat|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|GlassFish|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
+|IIS|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
+
+---
+
 
 ## Comms/Protocols
 |Type/Feature|Project Name|
@@ -436,18 +538,6 @@ Index to all Projects on GitHub
 
 
 
-## Entity Framework / Code First / MSSQL Server
-|Project Name|
-|------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
-
 ---
 
 ## Exception Handling / Responses
@@ -479,20 +569,6 @@ Index to all Projects on GitHub
 
 ---
 
-## LINQ / Dynamic LINQ / Parallel LINQ
-|Project Name|
-|------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
-|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|[CSharp_PLINQ](https://github.com/Apollo013/CSharp_PLINQ)|
-|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
-|[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
-|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
-|[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
 
 ---
 
@@ -685,64 +761,3 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 ||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
 
 ---
-
-## VB6
-|Project Name|
-|------------|
-|[VB6_GameOfLifeApp](https://github.com/Apollo013/VB6_GameOfLifeApp)|
-
----
-
-## VB.Net
-|Project Name|
-|------------|
-|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
-|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
-
-
----
-
-## WCF
-|Project Name|
-|------------|
-|[WCF_WindowsManagedService](https://github.com/Apollo013/WCF_WindowsManagedService)|
-|[WCF_Versioning_Strategies](https://github.com/Apollo013/WCF_Versioning_Strategies)|
-|[WCF_WindowsServce_JavaClient](https://github.com/Apollo013/WCF_WindowsServce_JavaClient)|
-|[WCF_HelloWorld](https://github.com/Apollo013/WCF_HelloWorld)|
-|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
-
----
-
-## Web Api 2
-|Project Name|
-|------------|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-|[AspNet_WebApi2_MultiPipeLine](https://github.com/Apollo013/AspNet_WebApi2_MultiPipeLine)|
-|[AspNet_WebApi2_SelfHost](https://github.com/Apollo013/AspNet_WebApi2_SelfHost)|
-|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
-|[AspNet_WebApi2_Versioning](https://github.com/Apollo013/AspNet_WebApi2_Versioning)|
-|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-
----
-
-## WinForms
-|Project Name|
-|------------|
-|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
-
----
-
-## WPF
-|Project Name|
-|------------|
-|[WCF_WPF_Northwind](https://github.com/Apollo013/WCF_WPF_Northwind)|
-|[WPF_edX_DEV206](https://github.com/Apollo013/WPF_edX_DEV206-2X)|
-|[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
-|[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
-|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
