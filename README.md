@@ -358,19 +358,12 @@ Index to all Projects on GitHub
 |AMQP|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
 ||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
+
 #### COMPARERS
 |Project Name|
 |------------|
 |[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
 
-
-#### CRYPTOGRAPHY
-|Project Name|
-|------------|
-|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
-|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
-|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
-|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
 
 #### ENUMERATORS
 |Project Name|
@@ -522,6 +515,15 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|ClaimsIdentity|
 |[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking, Claims Factory, Unpacking Claims|
 |[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
+
+
+#### CRYPTOGRAPHY
+|Project Name|
+|------------|
+|[DotNet_Cryptography_HashingAlgorithms](https://github.com/Apollo013/DotNet_Cryptography_HashingAlgorithms)|
+|[DotNet_Cryptography_AsymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_AsymmetricEncryption)|
+|[DotNet_Cryptography_SymmetricEncryption](https://github.com/Apollo013/DotNet_Cryptography_SymmetricEncryption)|
+|[DotNet_Cryptography_RandomKeyGenerator](https://github.com/Apollo013/DotNet_Cryptography_RandomKeyGenerator)|
 
 
 #### FILTERS, ATTRIBUTES & VALIDATION
