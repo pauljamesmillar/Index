@@ -37,13 +37,13 @@ Index to all Projects on GitHub
   * [Web Api 2](#WebApi)
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
-4. [Miscellaneous Framweworks]
+4. [Miscellaneous Framweworks](#MISC)
   * [Dependency Injection / IoC(#DI)
-   * [StructureMap](#StructureMap)
-   * [Ninject](#ninject)
+    * [StructureMap](#StructureMap)
+    * [Ninject](#ninject)
   * [Testing Frameworks](#TESTING)
-   * [Visual Studio Tools](#VSTOOLS)
-   * [jUnit[(#jUnit) 
+    * [Visual Studio Tools](#VSTOOLS)
+    * [jUnit](#jUnit) 
   * [Logging Frameworks](#LOGGING)
    * [nLog](#nlog)
     
