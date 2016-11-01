@@ -37,6 +37,7 @@ Index to all Projects on GitHub
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
   * [EntityFramework](#EntityFramework)
+  * [Identity & Security](#Identity)
   * [LINQ](#LINQ)
   * [MVC](#MVC)
   * [SignalR](#SignalR)
@@ -497,6 +498,89 @@ Index to all Projects on GitHub
 |[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 
+
+<a name="Identity"/>
+## Identity & Security
+
+#### API KEY AUTHENTICATION
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
+
+
+#### BASIC AUTHENTICATION
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
+
+
+#### CLAIMS
+|Project Name|Note|
+|------------|----|
+|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|ClaimsIdentity|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking, Claims Factory, Unpacking Claims|
+|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
+
+
+#### FILTERS, ATTRIBUTES & VALIDATION
+|Feature|Project Name|Note|
+|-------|------------|----|
+|AuthorizeAttribute|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Custom Admin Only|
+|AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
+||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking|
+|IAuthenticationFilter|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
+|ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
+IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom BadRequest, InternalServerError, NotFound|
+|ValidationAttribute|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|Remote & Attribute Validation|
+
+#### OAUTH2 / JSON WEB TOKENS
+|Project Name|Note|
+|------------|----|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|OAuthAuthorizationServerProvider|
+
+
+#### PASSWORD & USER VALIDATORS
+|Project Name|
+|------------|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+
+
+#### ROLE MANAGER
+|Project Name|
+|------------|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+
+
+#### USER MANAGER
+|Project Name|
+|------------|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
+|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
+|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
+
+
+#### MISCELLANEOUS
+|Feature|Project Name|Note|
+|-------|------------|----|
+|IPrincipal|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
+|Challenge Result|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|IHttpActionResult|
+||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|IHttpActionResult|
+||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
+|ApplicationSignInManager|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)||
+|Cookie Authentication|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)||
+|IdentityUser|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|Extending User Details|
+|CORS|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
+|Audience Keys|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
+|Email Confirmation|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Gmail|
+
+
 <a name="LINQ"/>
 ## LINQ / Dynamic LINQ / Parallel LINQ
 |Project Name|
@@ -675,85 +759,5 @@ Index to all Projects on GitHub
 ||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 ||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
 
----
 
-## Security
-
-#### API KEY AUTHENTICATION
-|Project Name|Note|
-|------------|----|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
-
-
-#### BASIC AUTHENTICATION
-|Project Name|Note|
-|------------|----|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
-
-
-#### CLAIMS
-|Project Name|Note|
-|------------|----|
-|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|Claims Transformation|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|ClaimsIdentity|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking, Claims Factory, Unpacking Claims|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
-
-
-#### FILTERS, ATTRIBUTES & VALIDATION
-|Feature|Project Name|Note|
-|-------|------------|----|
-|AuthorizeAttribute|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Custom Admin Only|
-|AuthorizationFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Force Https|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Claims Checking|
-|IAuthenticationFilter|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)||
-|ActionFilterAttribute|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom Model Validator|
-IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|Custom BadRequest, InternalServerError, NotFound|
-|ValidationAttribute|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|Remote & Attribute Validation|
-
-#### OAUTH2 / JSON WEB TOKENS
-|Project Name|Note|
-|------------|----|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|OAuthAuthorizationServerProvider|
-
-
-#### PASSWORD & USER VALIDATORS
-|Project Name|
-|------------|
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-
-
-#### ROLE MANAGER
-|Project Name|
-|------------|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-
-
-#### USER MANAGER
-|Project Name|
-|------------|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
-|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|
-|[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
-|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
-
-
-#### MISCELLANEOUS
-|Feature|Project Name|Note|
-|-------|------------|----|
-|IPrincipal|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
-|Challenge Result|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|IHttpActionResult|
-||[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|IHttpActionResult|
-||[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
-|ApplicationSignInManager|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)||
-|Cookie Authentication|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)||
-|IdentityUser|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)|Extending User Details|
-|CORS|[AspNet_WebApi2_Security_MessageHandlers](https://github.com/Apollo013/AspNet_WebApi2_Security_MessageHandlers)||
-|Audience Keys|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)||
-|Email Confirmation|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|Gmail|
 
