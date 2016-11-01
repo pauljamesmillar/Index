@@ -716,8 +716,8 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[Java_DataStructures](https://github.com/Apollo013/Java_DataStructures)|
 |[Java_Algorithms](https://github.com/Apollo013/Java_Algorithms)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 
-<a name="LOGGING"/>
 ## Logging
 |Logging Framework|Project Name|
 |-----------------|------------|
