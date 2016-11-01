@@ -77,12 +77,14 @@ Index to all Projects on GitHub
 |Composite|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |CQRS|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
 |DAO|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+||[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 |Decorator|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
 ||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Facade|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Factory|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern)|
 ||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+||[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 |Flyweight|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |Iterator|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
 |Model Factory|[AspNet_WebApi2_Security_JWTAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_JWTAuthentication)|
@@ -98,7 +100,9 @@ Index to all Projects on GitHub
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
 |Singleton|[DotNet_DesignPatterns_CreationalPatterns/SingletonPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/SingletonPattern)|
 ||[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+||[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 |Strategy|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+||[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 <a name="DESIGNPRINCIPLES"/>
@@ -303,6 +307,7 @@ Index to all Projects on GitHub
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 
 ---
 
