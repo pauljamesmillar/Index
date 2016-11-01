@@ -25,7 +25,7 @@ Index to all Projects on GitHub
   * [TextJS](#TextJS)
 3. [Data Storage](#DataStorage)
   * [Access](#Access)
-  * [BLOB STORAGE (Azure)](#BLOBSTORAGE)
+  * [Block Storage (Azure)](#BLOBSTORAGE)
   * [Caching](#Caching)
   * [DocumentDB](#DocumentDB)
   * [Local Storage](#localstorage)
@@ -252,7 +252,7 @@ Index to all Projects on GitHub
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 <a name="BLOBSTORAGE"/>
-## BLOB STORAGE (Azure)
+## BLOCK STORAGE (Azure)
 |Project Name|
 |------------|
 |[Azure_BlockStorag](https://github.com/Apollo013/Azure_BlockStorage)|
