@@ -25,6 +25,7 @@ Index to all Projects on GitHub
   * [TextJS](#TextJS)
 3. [Data Storage](#DataStorage)
   * [Access](#Access)
+  * [BLOB STORAGE (Azure)](#BLOBSTORAGE)
   * [Caching](#Caching)
   * [DocumentDB](#DocumentDB)
   * [Local Storage](#localstorage)
@@ -240,7 +241,57 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
 ---
-  
+    
+<a name="DataStorage"/>  
+# Data Storage
+
+<a name="Access"/>
+## ACCESS
+|Project Name|
+|------------|
+|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
+
+<a name="BLOBSTORAGE"/>
+## BLOB STORAGE (Azure)
+|Project Name|
+|------------|
+|[Azure_BlockStorag](https://github.com/Apollo013/Azure_BlockStorage)|
+
+<a name="Caching"/>
+## CACHING
+|Project Name|
+|------------|
+|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+
+<a name="DocumentDB"/>
+## DOCUMENT DB
+|Project Name|
+|------------|
+|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
+|[NoSql_DocumentD](https://github.com/Apollo013/NoSql_DocumentDB)|
+
+<a name="localstorage"/>
+## LOCAL STORAGE
+|Project Name|
+|------------|
+|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
+
+<a name="MongoDB"/>
+## MONGO DB
+|Project Name|
+|------------|
+|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+
+<a name="MySql"/>
+## MYSQL
+|Project Name|
+|------------|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+---
+
 <a name="MICROSOFT"/>  
 # Microsoft Technologies
 
@@ -251,7 +302,7 @@ Index to all Projects on GitHub
 |[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
 
 <a name="Azure"/>
-## Azure
+## AZURE
 |Service|Project Name|
 |-------|------------|
 |DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
@@ -590,23 +641,6 @@ Index to all Projects on GitHub
 
 ---
 
-## Data Storage
-|Type|Provider|Project Name|
-|----|--------|------------|
-|Caching|.Net|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
-||.Net|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
-|Local Storage||[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
-|NoSql|MongoDB|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|NoSql|MongoDB|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
-|NoSql|DocumentDB|[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
-|NoSql|DocumentDB|[NoSql_DocumentDB](https://github.com/Apollo013/NoSql_DocumentDB)|
-|Blob|Azure Block Storage|[Azure_BlockStorage](https://github.com/Apollo013/Azure_BlockStorage)|
-|Sql|MySql|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-|Sql|Access|[VBNET_StudentGradesApp](https://github.com/Apollo013/VBNET_StudentGradesApp)|
-
-
----
-
 ## Java
 |Project Name|
 |------------|
@@ -637,11 +671,7 @@ Index to all Projects on GitHub
 
 ---
 
-## MongoDB
-|Project Name|
-|------------|
-|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
-|[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+
 
 ---
 
