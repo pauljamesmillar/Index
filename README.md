@@ -42,7 +42,7 @@ Index to all Projects on GitHub
 # ARCHITECTURE, PATTERNS & PRINCIPLES
 
 <a name="DESIGNPATTERNS"/>
-### Design Patterns
+## Design Patterns
 |Pattern|Project Name|
 |-------|------------|
 |Adapter|[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching/blob/master/MemoryCacheExample/Services/InMemoryCachedCustomerService.cs)|
@@ -79,7 +79,7 @@ Index to all Projects on GitHub
 |Unit Of Work|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 <a name="DESIGNPRINCIPLES"/>
-### Design Principles
+## Design Principles
 |Project Name|
 |------------|
 |[DotNet_DesignPrinciples_SOLID/SingleResponsibilityPrinciple](https://github.com/Apollo013/DotNet_DesignPrinciples_SOLID/tree/master/SingleResponsibilityPrinciple)|
@@ -227,7 +227,7 @@ Index to all Projects on GitHub
 ---
   
 <a name="MICROSOFT"/>  
-#  Microsoft Technologies
+# Microsoft Technologies
 
 <a name="ADO"/>
 ## ADO
@@ -246,14 +246,14 @@ Index to all Projects on GitHub
 <a name="CSHARP"/>
 ## C# FEATURES
 
-#### ATTRIBUTES
+### ATTRIBUTES
 |Project Name|Note|
 |------------|----|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|CollectionNameAttribute used by reflection to identify table name|
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)||
 
 
-#### COLLECTIONS
+### COLLECTIONS
 |Project Name|
 |------------|
 |[CSharp_Collections/Concurrent](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Collections/Concurrent)|
@@ -264,19 +264,19 @@ Index to all Projects on GitHub
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 
 
-#### COMPARERS
+### COMPARERS
 |Project Name|
 |------------|
 |[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
 
 
-#### ENUMERATORS
+### ENUMERATORS
 |Project Name|
 |------------|
 |[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
 
 
-#### EVENTS & DELEGATES
+### EVENTS & DELEGATES
 |Project Name|
 |------------|
 |[AspNet_WebApi2_Security_BasicAuthentication](https://github.com/Apollo013/AspNet_WebApi2_Security_BasicAuthentication)|
@@ -289,7 +289,7 @@ Index to all Projects on GitHub
 |[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 
 
-#### EXTENSION METHODS
+### EXTENSION METHODS
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
@@ -300,7 +300,7 @@ Index to all Projects on GitHub
 |[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 
 
-#### INDEXER METHODS
+### INDEXER METHODS
 |Project Name|
 |------------|
 |[CSharp_IndexerMethods](https://github.com/Apollo013/CSharp_IndexerMethods)|
@@ -308,7 +308,7 @@ Index to all Projects on GitHub
 |[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
 
 
-#### IO
+### IO
 |Project Name|Note|
 |------------|----|
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|File Stream|
@@ -317,27 +317,27 @@ Index to all Projects on GitHub
 |[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|BinaryWriter, NetworkStream, BufferedStream, MemoryStream|
 
 
-#### OPERATOR OVERLOADING
+### OPERATOR OVERLOADING
 |Project Name|
 |------------|
 |[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
 
 
-#### PREDICATES
+### PREDICATES
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 
-#### REFLECTION
+### REFLECTION
 |Project Name|
 |------------|
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
 |[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern/Factories/Concrete)|
 
 
-#### TASKS
+### TASKS
 |Project Name|
 |------------|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
@@ -351,14 +351,14 @@ Index to all Projects on GitHub
 |[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 
 
-#### THREADING
+### THREADING
 |Project Name|
 |------------|
 |[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
 
 
-#### C# MISCELLENEOUS FEATURES
+### C# MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
 |Paging, Dynamic Sorting & Filtering|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
