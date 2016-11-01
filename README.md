@@ -29,6 +29,7 @@ Index to all Projects on GitHub
   * [C# Features](#CSHARP)
   * [EntityFramework](#EntityFramework)
   * [LINQ](#LINQ)
+  * [MVC](#MVC)
   * [SignalR](#SignalR)
   * [VB6](#VB6)
   * [VB.Net](#VB)
@@ -399,6 +400,18 @@ Index to all Projects on GitHub
 |[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
 
+<a name="MVC"/>
+## MVC
+|Project Name|
+|------------|
+|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
+|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
+|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
+|[AspNet_MVC5_Razor](https://github.com/Apollo013/AspNet_MVC5_Razor)|
+|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
+
 <a name="SignalR"/>
 ## SignalR
 |Project Name|
@@ -611,16 +624,7 @@ Index to all Projects on GitHub
 
 ---
 
-## MVC
-|Project Name|
-|------------|
-|[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
-|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
-|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
-|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
-|[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
-|[AspNet_MVC5_Razor](https://github.com/Apollo013/AspNet_MVC5_Razor)|
-|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
+
 
 ---
 
