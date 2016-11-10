@@ -29,7 +29,7 @@ Index to all Projects on GitHub.
   * [Access](#Access)
   * [Block Storage (Azure)](#BLOBSTORAGE)
   * [Caching (.Net)](#Caching)
-  * [DocumentDB](#DocumentDB)
+  * [DocumentDB (Azure)](#DocumentDB)
   * [Local Storage](#localstorage)
   * [MongoDB](#MongoDB)
   * [MySql](#MySql)
