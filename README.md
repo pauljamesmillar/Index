@@ -6,6 +6,13 @@ Index for all my projects on GitHub.
 
 ---
 
+#### HOSTED ON AZURE
+|Github Project| Website Link|
+|--------------|-------------|
+|[GigHub](https://github.com/Apollo013/GigHub)| [http://apollo013gighub.azurewebsites.net/](http://apollo013gighub.azurewebsites.net/)|
+
+---
+
 #### TABLE OF CONTENTS
 1. [Architecture, Patterns & Principles](#ARCHITECTURE)
   * [Architecture](#Architecture)
