@@ -12,14 +12,13 @@ Index to all Projects on GitHub.
   * [Design Patterns](#DESIGNPATTERNS) 
   * [Design Principles](#DESIGNPRINCIPLES) 
 2. [Client Side Frameworks & Plugins](#CLIENTSIDE)
-  * [Ajax](#AJAX)
   * [AngularJS](#AngularJS)
   * [Charts](#Charts)
   * [CSS](#CSS)
   * [CrossroadsJS](#CrossroadsJS)
   * [HistoryJS](#HistoryJS)
   * [HTML](#HTML)
-  * [Javascript / jQuery](#Javascript)
+  * [Javascript / jQuery / Ajax](#Javascript)
   * [KnockoutJS](#KnockoutJS)
   * [MomentJS](#MomentJS)
   * [NodeJS / ExpressJS](#NodeJS)
@@ -128,15 +127,6 @@ Index to all Projects on GitHub.
 <a name="CLIENTSIDE"/>
 # Client Side Frameworks & Plugins
 
-<a name="AJAX"/>
-## AJAX
-|Project Name|
-|------------|
-|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
-|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
-|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
-|[GigHub](https://github.com/Apollo013/GigHub)|
-
 <a name="AngularJS"/>
 ## AngularJS
 |Project Name|
@@ -211,7 +201,7 @@ Index to all Projects on GitHub.
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 <a name="Javascript"/>
-## Javascript / jQuery
+## Javascript / jQuery / Ajax
 |Project Name|
 |------------|
 |[GigHub](https://github.com/Apollo013/GigHub)|
@@ -224,6 +214,10 @@ Index to all Projects on GitHub.
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+|[AspNet_MVC5_Caching/ObjectCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/OutputCacheExample)|
+|[AspNet_WebApi2_KnockoutJS_BookServiceApp](https://github.com/Apollo013/AspNet_WebApi2_KnockoutJS_BookServiceApp)|
+
 
 <a name="jQUERYPLUGINS"/>
 #### jQUERY PLUGINS
