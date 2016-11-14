@@ -181,7 +181,7 @@ Index for all of my projects on GitHub.
 |Component|Project|
 |---------|-------|
 |BootBox|[GigHub](https://github.com/Apollo013/GigHub)|
-|Cards||[GigHub](https://github.com/Apollo013/GigHub)|
+|Cards|[GigHub](https://github.com/Apollo013/GigHub)|
 |Badges|[GigHub](https://github.com/Apollo013/GigHub)|
 |Cards|[GigHub](https://github.com/Apollo013/GigHub)|
 
