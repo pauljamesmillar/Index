@@ -51,6 +51,7 @@ Index to all Projects on GitHub.
 5. [Miscellaneous Frameworks & Technologies](#MISC)
   * [Apache Cordova](#Apache)
   * [Api's - 3rd Party](#API)
+  * [AutoMapper](#AutoMapper)
   * [Dependency Injection / IoC](#DI)
   * [Java](#Java)
   * [Logging Frameworks](#LOGGING)
@@ -720,6 +721,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
+<a name="AutoMapper"/>
 ## AutoMapper
 |Project Name|
 |------------|
