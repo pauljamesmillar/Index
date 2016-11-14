@@ -14,7 +14,7 @@ Index to all Projects on GitHub.
 2. [Client Side Frameworks & Plugins](#CLIENTSIDE)
   * [AngularJS](#AngularJS)
   * [Charts](#Charts)
-  * [CSS](#CSS)
+  * [CSS / Bootstrap](#CSS)
   * [CrossroadsJS](#CrossroadsJS)
   * [HistoryJS](#HistoryJS)
   * [HTML](#HTML)
@@ -55,6 +55,7 @@ Index to all Projects on GitHub.
   * [Java](#Java)
   * [Logging Frameworks](#LOGGING)
   * [Mock Data](#Mock)
+  * [Photoshop](#Photoshop)
   * [RabbitMQ](#RabbitMQ)
   * [Servers](#Servers)
   * [Testing Frameworks](#TESTING)
@@ -174,6 +175,14 @@ Index to all Projects on GitHub.
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+#### Bootstrap Components
+|Component|Project|
+|---------|-------|
+|BootBox|[GigHub](https://github.com/Apollo013/GigHub)|
+|Cards||[GigHub](https://github.com/Apollo013/GigHub)|
+|Badges|[GigHub](https://github.com/Apollo013/GigHub)|
+|Cards|[GigHub](https://github.com/Apollo013/GigHub)|
 
 <a name="CrossroadsJS"/>
 ## CrossroadsJS
@@ -751,6 +760,13 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |Provider|Project Name|
 |----|------------|
 |Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+<a name="Photoshop"/>
+## Photoshop
+|Project Name|
+|------------|
+|[GigHub](https://github.com/Apollo013/GigHub)|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
 <a name="RabbitMQ"/>
 ## RabbitMQ
