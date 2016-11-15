@@ -159,15 +159,10 @@ Index for all my projects on GitHub.
 
 <a name="Charts"/>
 ## Charts
-|Plugin|Project Name|
-|------|------------|
-|Morris Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
-|Sparkline Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
-|ChartJS|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
-|EasyPieCharts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
-|Flot Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
-||[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
-|Knob Charts|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|
+|Project Name|Chart Plugins|
+|------------|-------------|
+|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|Morris Charts, Sparkline Charts, ChartJS, EasyPieCharts, Flot Charts, Knob Charts|
+|[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)| Flot Charts|
 
 <a name="CSS"/>
 ## CSS / Bootstrap
