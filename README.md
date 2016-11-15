@@ -10,6 +10,7 @@ Index for all my projects on GitHub.
 |Github Project| Website Link|
 |--------------|-------------|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)| [http://apollo013gighub.azurewebsites.net/](http://apollo013gighub.azurewebsites.net/)|
+|[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|[http://angularjscharts.azurewebsites.net](http://angularjscharts.azurewebsites.net/areacharts)|
 
 ---
 
