@@ -111,7 +111,8 @@ Index for all my projects on GitHub.
 ||[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |Prototype|[DotNet_DesignPatterns_CreationalPatterns/PrototypePattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/PrototypePattern)|
 |Proxy|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-|Repository|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
+|Repository|[DotNet_EntityFramework_GenericRepository](https://github.com/Apollo013/DotNet_EntityFramework_GenericRepository)|
+||[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample)|
 ||[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 ||[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|
@@ -512,6 +513,7 @@ Index for all my projects on GitHub.
 ## Entity Framework / Code First
 |Project Name|
 |------------|
+|[DotNet_EntityFramework_GenericRepository](https://github.com/Apollo013/DotNet_EntityFramework_GenericRepository)|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
@@ -800,6 +802,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |--------------|------------|
 |Visual Studio Test Tools|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 ||[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
+||[DotNet_EntityFramework_GenericRepository](https://github.com/Apollo013/DotNet_EntityFramework_GenericRepository)|
 |FluentAssertions|[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |JUnit|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |NUnit|[DotNet_Architecture_TDD](https://github.com/Apollo013/DotNet_Architecture_TDD)|
