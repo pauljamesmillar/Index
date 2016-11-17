@@ -2,7 +2,7 @@
 
 ---
 
-Index for all my projects on GitHub
+Index for all my projects on GitHub.
 
 ---
 
