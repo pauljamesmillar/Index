@@ -6,7 +6,7 @@ Index for all my projects on GitHub.
 
 ---
 
-#### HOSTED ON AZURE
+#### PROJECTS HOSTED ON AZURE
 |Github Project| Website Link|Techs|
 |--------------|-------------|-----|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)| [http://apollo013gighub.azurewebsites.net](http://apollo013gighub.azurewebsites.net/)|C#, MVC5, Web Api 2, Automapper, EF, MSSQL, jQuery, Ajax, Bootstrap, Less, Bootboxjs, Momentjs, Underscorejs, Photoshop|
@@ -571,7 +571,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |ValidationAttribute|[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|Remote & Attribute Validation|
 
 
-#### Identity
+#### IDENTITY
 |Project Name|
 |------------|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
