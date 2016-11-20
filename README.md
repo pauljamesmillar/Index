@@ -11,7 +11,7 @@ Index for all my projects on GitHub.
 |--------------|-------------|-----|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)| [http://apollo013gighub.azurewebsites.net](http://apollo013gighub.azurewebsites.net/)|C#, MVC5, Web Api 2, Automapper, EF, MSSQL, jQuery, Ajax, Bootstrap, Html, Less, Bootboxjs, Momentjs, Underscorejs, Photoshop|
 |[AngularJS_Charts](https://github.com/Apollo013/AngularJS_Charts)|[http://angularjscharts.azurewebsites.net](http://angularjscharts.azurewebsites.net/areacharts)|AngularJS, RequireJS, HTML, Bootstrap, jQuery, Json, Morris Charts, Sparkline Charts, Chartjs, EasyPieCharts, Flot Charts, Knob Charts|
-|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|[http://apollo013stockticker.azurewebsites.net/](http://apollo013stockticker.azurewebsites.net/)|C#, MVC5, SignalR, KnonckoutJS,  RequireJS, TextJS, jQuery, Ajax, Bootstrap, Html, Flot Charts|
+|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|[http://apollo013stockticker.azurewebsites.net/](http://apollo013stockticker.azurewebsites.net/)|C#, MVC5, SignalR, KnockoutJS,  RequireJS, TextJS, jQuery, Ajax, Bootstrap, Html, Flot Charts|
 
 ---
 
