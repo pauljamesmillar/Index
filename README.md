@@ -76,7 +76,7 @@ Index for all my projects on GitHub
     * [Moq](#Moq)
     * [NUnit](#NUnit)
     * [Visual Studio Test Framework](#VSTESTING)
-  * [UML](#UML)
+  * [Visual Paradigm](#vpgm)
    
 ---
 
@@ -849,15 +849,14 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |[DotNet_EntityFramework](https://github.com/Apollo013/DotNet_EntityFramework)|
 
-
-<a name="UML"/>
-## UML
-|Provider|Project Name|
-|--------|------------|
-|Visual Paradigm|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-||[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
-||[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
-||[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
+<a name="vpgm"/>
+## Visual Paradigm
+|Project Name|
+|------------|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|[Dotnet_DesignPatterns_BehaviouralPatterns](https://github.com/Apollo013/Dotnet_DesignPatterns_BehaviouralPatterns)|
+|[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
+|[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
 
 
 
