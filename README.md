@@ -71,6 +71,7 @@ Index for all my projects on GitHub
     * [Log4Net](#Log4Net)
     * [NLog](#NLog)
   * [Mock Data](#Mock)
+    * [Faker](#Faker)
   * [Photoshop](#Photoshop)
   * [RabbitMQ](#RabbitMQ)
   * [Servers](#Servers)
@@ -809,11 +810,18 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 
+<hr/>
+
 <a name="Mock"/>
 ## Mock Data
-|Provider|Project Name|
-|----|------------|
-|Faker|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+<a name="Faker"/>
+#### FAKER
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
+
+<hr/>
 
 <a name="Photoshop"/>
 ## Photoshop
@@ -872,6 +880,8 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |[DotNet_EntityFramework](https://github.com/Apollo013/DotNet_EntityFramework)|
+
+<hr/>
 
 <a name="vpgm"/>
 ## Visual Paradigm
