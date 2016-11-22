@@ -66,7 +66,10 @@ Index for all my projects on GitHub
     * [StructureMap](#StructureMap)
     * [Ninject](#Ninject)
   * [Java](#Java)
-  * [Logging Frameworks](#LOGGING)
+  * [Logging Frameworks](#LoggingFrameworks)
+    * [Log4J](#Log4J)
+    * [Log4Net](#Log4Net)
+    * [NLog](#NLog)
   * [Mock Data](#Mock)
   * [Photoshop](#Photoshop)
   * [RabbitMQ](#RabbitMQ)
@@ -785,13 +788,26 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 |[Java_LibraryProject](https://github.com/Apollo013/Java_LibraryProject)|
 
-## Logging
-|Logging Framework|Project Name|
-|-----------------|------------|
-|Log4Net|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
-|NLog|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
-|Log4J|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+<a name="LoggingFrameworks"/>
+## Logging Frameworks
 
+<a name="Log4J"/>
+#### LOG4J
+|Project Name|
+|------------|
+|[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+<a name="Log4Net"/>
+#### LOG4NET
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+<a name="NLog"/>
+#### NLOG
+|Project Name|
+|------------|
+|[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|
 
 <a name="Mock"/>
 ## Mock Data
