@@ -163,7 +163,7 @@ Index for all my projects on GitHub
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 
 <a name="ANGULARJSPLUGINS"/>
-#### ANGULARJS 3rd PARTY PLUGINS
+#### ANGULARJS PLUGINS
 |Plugin|Project Name|
 |------|------------|
 |Restangular|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
