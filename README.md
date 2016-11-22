@@ -78,9 +78,10 @@ Index for all my projects on GitHub
   * [Testing Frameworks](#TESTING)
     * [Fluent Assertions](#FLUENTASSERTIONS)
     * [JUnit](#JUnit)
+    * [Karma](#karma)
     * [Moq](#Moq)
     * [NUnit](#NUnit)
-    * [Visual Studio Test Framework](#VSTESTING)
+    * [Visual Studio Test Framework](#VSTESTING)    
   * [Visual Paradigm](#vpgm)
    
 ---
@@ -862,6 +863,12 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+
+<a name="karma"/>
+#### KARMA
+|Project Name|
+|------------|
+|[AngularJS_WebApi_Karma_Refresher](https://github.com/Apollo013/AngularJS_WebApi_Karma_Refresher)|
 
 <a name="Moq"/>
 #### MOQ
