@@ -394,7 +394,7 @@ Index for all my projects on GitHub
 |[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 
-#### COMMUNICATIONS / PROTOCOLS
+#### COMMUNICATION PROTOCOLS
 |Type/Feature|Project Name|
 |----|------------|
 |Web Sockets|[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
@@ -444,6 +444,7 @@ Index for all my projects on GitHub
 #### EXTENSION METHODS
 |Project Name|
 |------------|
+|[DotNet_EntityFramework](https://github.com/Apollo013/DotNet_EntityFramework)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_MVC5_Security_Claims](https://github.com/Apollo013/AspNet_MVC5_Security_Claims)|
@@ -478,6 +479,7 @@ Index for all my projects on GitHub
 #### PREDICATES
 |Project Name|
 |------------|
+|[DotNet_EntityFramework](https://github.com/Apollo013/DotNet_EntityFramework)|
 |[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
