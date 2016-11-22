@@ -58,7 +58,7 @@ Index for all my projects on GitHub
   * [Web Api 2 / OWIN](#WebApi)
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
-5. [Miscellaneous Frameworks & Technologies](#MISC)
+5. [Miscellaneous](#MISC)
   * [Apache Cordova](#Apache)
   * [Api's - 3rd Party](#API)
   * [AutoMapper](#AutoMapper)
@@ -743,7 +743,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 ---
 
 <a name="MISC"/>  
-# Miscellaneous Frameworks & Technologies
+# Miscellaneous
 
 <a name="Apache"/>
 ## Apache Cordova
@@ -751,6 +751,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
+<hr/>
 
 <a name="API"/>
 ## Api's - 3rd Party
@@ -760,11 +761,15 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 ||GeoCoding|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 |Yahoo|Weather|[ApacheCordova_AngularJS_WeatherApp](https://github.com/Apollo013/ApacheCordova_AngularJS_WeatherApp)|
 
+<hr/>
+
 <a name="AutoMapper"/>
 ## AutoMapper
 |Project Name|
 |------------|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
+
+<hr/>
 
 <a name="DI"/>
 ## Dependency Injection
