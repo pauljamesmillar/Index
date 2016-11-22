@@ -62,6 +62,8 @@ Index for all my projects on GitHub
   * [Api's - 3rd Party](#API)
   * [AutoMapper](#AutoMapper)
   * [Dependency Injection / IoC](#DI)
+   * [StructureMap](#StructureMap)
+   * [Ninject](#Ninject)
   * [Java](#Java)
   * [Logging Frameworks](#LOGGING)
   * [Mock Data](#Mock)
@@ -745,10 +747,20 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 
 <a name="DI"/>
 ## Dependency Injection
-| DI |Project Name|
-|---|------------|
-|StructureMap|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
-|Ninject|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+<a name="StructureMap"/>
+#### StructureMap
+|Project Name|
+|------------|
+|[AspNet_MVC5_Caching/MemoryCacheExample](https://github.com/Apollo013/AspNet_MVC5_Caching/tree/master/MemoryCacheExample) |
+
+<a name="Ninject"/>
+#### Ninject
+|Project Name|
+|------------|
+|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
+
+<hr/>
 
 <a name="Java"/>
 ## Java
