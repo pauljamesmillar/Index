@@ -75,7 +75,7 @@ Index for all my projects on GitHub
     * [JUnit](#JUnit)
     * [Moq](#Moq)
     * [NUnit](#NUnit)
-    * [VSTESTING](#VSTESTING)
+    * [Visual Studio Test Framework](#VSTESTING)
   * [UML](#UML)
    
 ---
