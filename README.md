@@ -190,13 +190,13 @@ Index for all my projects on GitHub
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
 
-#### Bootstrap Components
+#### Bootstrap Components & Plugins
 |Component|Project|
 |---------|-------|
 |BootBox|[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 |Cards|[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 |Badges|[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
-|Cards|[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
+|Popovers|[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 
 <a name="CrossroadsJS"/>
 ## CrossroadsJS
