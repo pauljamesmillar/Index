@@ -78,6 +78,7 @@ Index for all my projects on GitHub
   * [Servers](#Servers)
   * [Testing Frameworks](#TESTING)
     * [Fluent Assertions](#FLUENTASSERTIONS)
+    * [Jasmine / Karma](#jazzkarma)
     * [JUnit](#JUnit)
     * [Karma](#karma)
     * [Moq](#Moq)
@@ -875,17 +876,17 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 
+<a name="jazzkarma"/>
+#### Jasmine / KARMA
+|Project Name|
+|------------|
+|[AngularJS_WebApi_Karma_Refresher](https://github.com/Apollo013/AngularJS_WebApi_Karma_Refresher)|
+
 <a name="JUnit"/>
 #### JUNIT
 |Project Name|
 |------------|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
-
-<a name="karma"/>
-#### KARMA
-|Project Name|
-|------------|
-|[AngularJS_WebApi_Karma_Refresher](https://github.com/Apollo013/AngularJS_WebApi_Karma_Refresher)|
 
 <a name="Moq"/>
 #### MOQ
