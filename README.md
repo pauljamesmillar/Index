@@ -530,10 +530,10 @@ Index for all my projects on GitHub
 
 <hr/>
 
-<a href="dotcore"/>
+<a name="dotcore"/>
 ##Dotnet Core    
 
-<a href="dotcoreconsole"/>
+<a name="dotcoreconsole"/>
 #### CONSOLE
 |Project Name|
 |------------|
