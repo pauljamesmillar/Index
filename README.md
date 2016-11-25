@@ -86,6 +86,7 @@ Index for all my projects on GitHub
     * [NUnit](#NUnit)
     * [Visual Studio Test Framework](#VSTESTING)    
   * [Visual Paradigm](#vpgm)
+  * [VS Code](#vscode)
    
 ---
 
@@ -932,5 +933,11 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[DotNet_DesignPatterns_StructuralPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_StructuralPatterns)|
 |[DotNet_DesignPatterns_CreationalPatterns](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns)|
 
+<hr/>
 
+<a name="vscode"/>
+##VS Code
+|Project Name|
+|------------|
+|[DotNetCore_SCD_Primer](https://github.com/Apollo013/DotNetCore_SCD_Primer)|
 
