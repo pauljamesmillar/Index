@@ -47,6 +47,8 @@ Index for all my projects on GitHub
   * [ADO](#ADO)
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
+  * [Dotnet Core](#dotcore)
+    * [Console](#dotcoreconsole)
   * [EntityFramework / Code First](#EntityFramework)
   * [Identity, Cryptography & Security](#Identity)
   * [LINQ / DLINQ / PLINQ](#LINQ)
@@ -526,6 +528,18 @@ Index for all my projects on GitHub
 |Algorithms|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
 |Images|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
 
+<hr/>
+
+<a href="dotcore"/>
+##Dotnet Core    
+
+<a href="dotcoreconsole"/>
+#### CONSOLE
+|Project Name|
+|------------|
+|[DotNetCore_SCD_Primer](https://github.com/Apollo013/DotNetCore_SCD_Primer)|
+
+<hr/>
 
 <a name="EntityFramework"/>
 ## Entity Framework / Code First
