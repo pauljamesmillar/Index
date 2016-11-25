@@ -80,7 +80,6 @@ Index for all my projects on GitHub
     * [Fluent Assertions](#FLUENTASSERTIONS)
     * [Jasmine / Karma](#jazzkarma)
     * [JUnit](#JUnit)
-    * [Karma](#karma)
     * [Moq](#Moq)
     * [NUnit](#NUnit)
     * [Visual Studio Test Framework](#VSTESTING)    
