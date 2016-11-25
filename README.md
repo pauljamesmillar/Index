@@ -876,7 +876,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 
 <a name="jazzkarma"/>
-#### Jasmine / KARMA
+#### JASMINE / KARMA
 |Project Name|
 |------------|
 |[AngularJS_WebApi_Karma_Refresher](https://github.com/Apollo013/AngularJS_WebApi_Karma_Refresher)|
