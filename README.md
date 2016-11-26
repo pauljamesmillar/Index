@@ -198,6 +198,7 @@ Index for all my projects on GitHub.
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[AspNet_MVC4_MoviesApp](https://github.com/Apollo013/AspNet_MVC4_MoviesApp)|
 |[Java_RenewEnergyApp](https://github.com/Apollo013/Java_RenewEnergyApp)|
+|[Bootstrap3_Flex_Layouts](https://github.com/Apollo013/Bootstrap3_Flex_Layouts)|
 
 #### Bootstrap Components & Plugins
 |Component|Project|
