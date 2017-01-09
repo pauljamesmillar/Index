@@ -38,7 +38,22 @@ Index for all my projects on GitHub.
   * [ADO](#ADO)
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
-     *[Attributes](#CSHARP-ATTRS)
+      * [Attributes](#CSHARP-ATTRS)
+      * [Collections](#CSHARP-COLLECTIONS)
+      * [Comms](#CSHARP-COMMUNICATION)
+      * [Comparers](#CSHARP-COMPARERS)
+      * [Enumerators](#CSHARP-ENUMERATORS)
+      * [Event Handling](#CSHARP-EVENTS)
+      * [Exception Handling](#CSHARP-EXCEPTION)
+      * [Extension Methods](#CSHARP-EXTENSION)
+      * [Indexer Methods](#CSHARP-INDEXER)
+      * [IO](#CSHARP-IO)
+      * [Operator Overloading](#CSHARP-OPERATOR)
+      * [Predicates](#CSHARP-PREDICATES)
+      * [Reflection](#CSHARP-REFLECTION)
+      * [Tasks](#CSHARP-TASKS)
+      * [Threading](#CSHARP-THREADING)
+      * [Miscellaneous](#CSHARP-MISCELLENEOUS)
   * [Dotnet Core](#dotcore)
    * [Console](#dotcoreconsole)
   * [EntityFramework / Code First](#EntityFramework)
@@ -376,7 +391,7 @@ Index for all my projects on GitHub.
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|CollectionNameAttribute used by reflection to identify table name|
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)||
 
-
+<a name="CSHARP-COLLECTIONS"/>
 #### COLLECTIONS
 |Project Name|
 |------------|
@@ -387,6 +402,8 @@ Index for all my projects on GitHub.
 |[CSharp_Collections/Interfaces](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Interfaces)|
 |[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 
+
+<a name="CSHARP-COMMUNICATION"/>
 #### COMMUNICATION PROTOCOLS
 |Type/Feature|Project Name|
 |----|------------|
@@ -403,18 +420,21 @@ Index for all my projects on GitHub.
 ||[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ)|
 
 
+<a name="CSHARP-COMPARERS"/>
 #### COMPARERS
 |Project Name|
 |------------|
 |[CSharp_Collections/Comparers](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Comparers)|
 
 
+<a name="CSHARP-ENUMERATORS"/>
 #### ENUMERATORS
 |Project Name|
 |------------|
 |[CSharp_Collections/Enumerators](https://github.com/Apollo013/CSharp_Collections/tree/master/CSharpCollections/Enumerators)|
 
 
+<a name="CSHARP-EVENTS"/>
 #### EVENTS & DELEGATES
 |Project Name|
 |------------|
@@ -428,12 +448,14 @@ Index for all my projects on GitHub.
 |[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 
 
+<a name="CSHARP-EXCEPTION"/>
 #### EXCEPTION HANDLING
 |Project Name|Note|
 |------------|----|
 |[AspNet_WebApi2_ExceptionHandling](https://github.com/Apollo013/AspNet_WebApi2_ExceptionHandling)|'Exception, ExceptionFilterAttribute, ExceptionHandler' - Custom ItemNotFound, Global Handler, Global Logger|
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|'DbEntityValidationException' -Custom Exception Handling override for DbContext.SaveChanges|
 
+<a name="CSHARP-EXTENSION"/>
 #### EXTENSION METHODS
 |Project Name|
 |------------|
@@ -446,6 +468,7 @@ Index for all my projects on GitHub.
 |[CSharp_ExtensionMethods](https://github.com/Apollo013/CSharp_ExtensionMethods)|
 
 
+<a name="CSHARP-INDEXER"/>
 #### INDEXER METHODS
 |Project Name|
 |------------|
@@ -454,6 +477,7 @@ Index for all my projects on GitHub.
 |[AspNet_MVC5_Validation](https://github.com/Apollo013/AspNet_MVC5_Validation)|
 
 
+<a name="CSHARP-IO"/>
 #### IO
 |Project Name|Note|
 |------------|----|
@@ -463,12 +487,14 @@ Index for all my projects on GitHub.
 |[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|BinaryWriter, NetworkStream, BufferedStream, MemoryStream|
 
 
+<a name="CSHARP-OPERATOR"/>
 #### OPERATOR OVERLOADING
 |Project Name|
 |------------|
 |[CSharp_OperatorOverloading](https://github.com/Apollo013/CSharp_OperatorOverloading)|
 
 
+<a name="CSHARP-PREDICATES"/>
 #### PREDICATES
 |Project Name|
 |------------|
@@ -477,11 +503,13 @@ Index for all my projects on GitHub.
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 
 
+<a name="CSHARP-REFLECTION"/>
 #### REFLECTION
 |Project Name|
 |------------|
 |[DotNet_Communications_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_RabbitMQ/tree/master/Common/RabbitMQCommon/ConnectionServices)|
 |[DotNet_DesignPatterns_CreationalPatterns/FactoryPattern](https://github.com/Apollo013/DotNet_DesignPatterns_CreationalPatterns/tree/master/FactoryPattern/Factories/Concrete)|
+
 
 #### RESPONSES
 |Project Name|Note|
@@ -492,6 +520,8 @@ Index for all my projects on GitHub.
 |[NoSql_DocumentDB_Admin](https://github.com/Apollo013/NoSql_DocumentDB_Admin)|CreatedActionResult |
 |[AspNet_MVC5_Caching](https://github.com/Apollo013/AspNet_MVC5_Caching)|ViewResult, JsonResult, ActionResult |
 
+
+<a name="CSHARP-TASKS"/>
 #### TASKS
 |Project Name|
 |------------|
@@ -506,6 +536,7 @@ Index for all my projects on GitHub.
 |[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 
 
+<a name="CSHARP-THREADING"/>
 #### THREADING
 |Project Name|
 |------------|
@@ -514,6 +545,7 @@ Index for all my projects on GitHub.
 |[CSharp_AsyncTcpSockets](https://github.com/Apollo013/CSharp_AsyncTcpSockets)|
 
 
+<a name="CSHARP-MISCELLENEOUS"/>
 #### C# MISCELLENEOUS FEATURES
 |Feature|Project Name|
 |-------|------------|
