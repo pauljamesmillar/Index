@@ -38,6 +38,7 @@ Index for all my projects on GitHub.
   * [ADO](#ADO)
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
+   * [Attributes](#CSHARP-ATTRS)
   * [Dotnet Core](#dotcore)
     * [Console](#dotcoreconsole)
   * [EntityFramework / Code First](#EntityFramework)
@@ -368,6 +369,7 @@ Index for all my projects on GitHub.
 <a name="CSHARP"/>
 ## C# Features
 
+<a name="CSHARP-ATTRS"/>
 #### ATTRIBUTES
 |Project Name|Note|
 |------------|----|
@@ -509,6 +511,7 @@ Index for all my projects on GitHub.
 |------------|
 |[CSharp_Threads](https://github.com/Apollo013/CSharp_Threads)|
 |[CSharp_edX_DEV204X](https://github.com/Apollo013/CSharp_edX_DEV204X)|
+|[CSharp_AsyncTcpSockets](https://github.com/Apollo013/CSharp_AsyncTcpSockets)|
 
 
 #### C# MISCELLENEOUS FEATURES
