@@ -7,11 +7,12 @@ Index for all my projects on GitHub.
 ---
 
 #### TABLE OF CONTENTS
-1. [Architecture, Patterns & Principles](#ARCHITECTURE)
+1. [Algorithms](#Algorithms)
+2. [Architecture, Patterns & Principles](#ARCHITECTURE)
   * [Architecture](#Architecture)
   * [Design Patterns](#DESIGNPATTERNS) 
   * [Design Principles](#DESIGNPRINCIPLES) 
-2. [Client Side Frameworks & Plugins](#CLIENTSIDE)
+3. [Client Side Frameworks & Plugins](#CLIENTSIDE)
   * [AngularJS](#AngularJS)
   * [Charts](#Charts)
   * [CSS / Bootstrap](#CSS)
@@ -25,7 +26,7 @@ Index for all my projects on GitHub.
   * [RequireJS](#REQUIREJS)
   * [TextJS](#TextJS)
   * [Underscore](#Underscore)
-3. [Data Storage](#DataStorage)
+4. [Data Storage](#DataStorage)
   * [Access](#Access)
   * [Block Storage (Azure)](#BLOBSTORAGE)
   * [Caching (.Net)](#Caching)
@@ -34,7 +35,7 @@ Index for all my projects on GitHub.
   * [MongoDB](#MongoDB)
   * [MySql](#MySql)
   * [File / Json](#Json)
-4. [Microsoft Technologies](#MICROSOFT)
+5. [Microsoft Technologies](#MICROSOFT)
   * [ADO](#ADO)
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
@@ -67,7 +68,7 @@ Index for all my projects on GitHub.
   * [Web Api 2 / OWIN](#WebApi)
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
-5. [Miscellaneous](#MISC)
+6. [Miscellaneous](#MISC)
   * [Apache Cordova](#Apache)
   * [Api's - 3rd Party](#API)
   * [AutoMapper](#AutoMapper)
@@ -96,6 +97,15 @@ Index for all my projects on GitHub.
   * [VS Code](#vscode)
    
 ---
+
+<a name="Algorithms"/>
+# ALGORITHMS
+|Language|
+|--------|
+|[C#](https://github.com/Apollo013/CSharp_Algorithms)|
+|[Java](https://github.com/Apollo013/Java_Algorithms)|
+
+<hr/>
 
 <a name="ARCHITECTURE"/>
 # ARCHITECTURE, PATTERNS & PRINCIPLES
