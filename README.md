@@ -428,6 +428,7 @@ Index for all my projects on GitHub.
 ||[DotNet_Communications_HttpClient](https://github.com/Apollo013/DotNet_Communications_HttpClient)|
 ||[CSharp_Tasks](https://github.com/Apollo013/CSharp_Tasks)|
 |Tcp|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
+||[CSharp_AsyncTcpSockets](https://github.com/Apollo013/CSharp_AsyncTcpSockets)|
 |Pipes|[DotNet_Communications_Pipes](https://github.com/Apollo013/DotNet_Communications_Pipes)|
 |Multipart Messages|[DotNet_Communications_MultipartMessage](https://github.com/Apollo013/DotNet_Communications_MultipartMessage)|
 |AMQP|[DotNet_Communications_MassTransit_RabbitMQ](https://github.com/Apollo013/DotNet_Communications_MassTransit_RabbitMQ)|
