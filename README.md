@@ -186,6 +186,7 @@ Index for all my projects on GitHub.
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
+|[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
 
 <a name="ANGULARJSPLUGINS"/>
 #### ANGULARJS PLUGINS
@@ -936,6 +937,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[AngularJS_WebApi_Jasmine_Karma](https://github.com/Apollo013/AngularJS_WebApi_Jasmine_Karma)|
 |[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
+|[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
 
 <a name="JUnit"/>
 #### JUNIT
@@ -954,6 +956,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |Project Name|
 |------------|
 |[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
+|[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
 
 <a name="NUnit"/>
 #### NUNIT
