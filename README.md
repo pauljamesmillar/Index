@@ -964,7 +964,6 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[DotNet_Architecture_TDD](https://github.com/Apollo013/DotNet_Architecture_TDD)|
 
-Protractor
 <a name="Protractor"/>
 #### Protractor
 |Project Name|
