@@ -91,7 +91,9 @@ Index for all my projects on GitHub.
     * [Jasmine / Karma](#jazzkarma)
     * [JUnit](#JUnit)
     * [Moq](#Moq)
+    * [ngMock](#ngMock)
     * [NUnit](#NUnit)
+    * [Protractor](#Protractor)
     * [Visual Studio Test Framework](#VSTESTING)    
   * [Visual Paradigm](#vpgm)
   * [VS Code](#vscode)
@@ -183,6 +185,7 @@ Index for all my projects on GitHub.
 |[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |[AspNet_WebApi2_AngularJS_QuizApp](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_QuizApp)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+|[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
 
 <a name="ANGULARJSPLUGINS"/>
 #### ANGULARJS PLUGINS
@@ -932,6 +935,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |Project Name|
 |------------|
 |[AngularJS_WebApi_Jasmine_Karma](https://github.com/Apollo013/AngularJS_WebApi_Jasmine_Karma)|
+|[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
 
 <a name="JUnit"/>
 #### JUNIT
@@ -945,11 +949,24 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[DotNet_Architecture_TDD](https://github.com/Apollo013/DotNet_Architecture_TDD)|
 
+<a name="ngMock"/>
+#### ngMock
+|Project Name|
+|------------|
+|[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
+
 <a name="NUnit"/>
 #### NUNIT
 |Project Name|
 |------------|
 |[DotNet_Architecture_TDD](https://github.com/Apollo013/DotNet_Architecture_TDD)|
+
+Protractor
+<a name="Protractor"/>
+#### Protractor
+|Project Name|
+|------------|
+|[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
 
 <a name="VSTESTING"/>
 #### VISUAL STUDIO TEST TOOLS
