@@ -67,7 +67,7 @@ Index for all continuous learning projects on GitHub.
   * [Web Api 2 / OWIN](#WebApi)
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
-6. [Dotnet Core](#dotcore)
+6. [.NET Core](#dotcore)
   * [ASP.NET](#dotcoreasp)
   * [Console](#dotcoreconsole)  
 7. [Miscellaneous](#MISC)
