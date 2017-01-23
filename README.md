@@ -36,7 +36,7 @@ Index for all continuous learning projects on GitHub.
   * [MongoDB](#MongoDB)
   * [MySql](#MySql)
   * [File / Json](#Json)
-5. [Microsoft Technologies](#MICROSOFT)
+5. [.NET](#DOTNET)
   * [ADO](#ADO)
   * [Azure](#Azure)
   * [C# Features](#CSHARP)
@@ -56,8 +56,6 @@ Index for all continuous learning projects on GitHub.
       * [Tasks](#CSHARP-TASKS)
       * [Threading](#CSHARP-THREADING)
       * [Miscellaneous](#CSHARP-MISCELLENEOUS)
-  * [Dotnet Core](#dotcore)
-   * [Console](#dotcoreconsole)
   * [EntityFramework / Code First](#EntityFramework)
   * [Identity, Cryptography & Security](#Identity)
   * [LINQ / DLINQ / PLINQ](#LINQ)
@@ -69,7 +67,10 @@ Index for all continuous learning projects on GitHub.
   * [Web Api 2 / OWIN](#WebApi)
   * [WinForms](#WinForms)
   * [WPF / Xaml](#WPF)
-6. [Miscellaneous](#MISC)
+6. [Dotnet Core](#dotcore)
+  * [ASP.NET](#dotcoreasp)
+  * [Console](#dotcoreconsole)  
+7. [Miscellaneous](#MISC)
   * [Apache Cordova](#Apache)
   * [Api's - 3rd Party](#API)
   * [AutoMapper](#AutoMapper)
@@ -303,6 +304,7 @@ Index for all continuous learning projects on GitHub.
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
 |[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
 |[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
+|[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
 
 <a name="PhantomJS"/>
 ## PhantomJS
@@ -332,6 +334,7 @@ Index for all continuous learning projects on GitHub.
 |Project Name|
 |------------|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
+|[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
 
 ---
     
@@ -387,8 +390,8 @@ Index for all continuous learning projects on GitHub.
 
 ---
 
-<a name="MICROSOFT"/>  
-# Microsoft Technologies
+<a name="DOTNET"/>  
+# .NET
 
 <a name="ADO"/>
 ## ADO
@@ -579,17 +582,6 @@ Index for all continuous learning projects on GitHub.
 |Json|[CSharp_Json](https://github.com/Apollo013/CSharp_Json)|
 |Algorithms|[CSharp_Algorithms](https://github.com/Apollo013/CSharp_Algorithms)|
 |Images|[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
-
-<hr/>
-
-<a name="dotcore"/>
-##Dotnet Core    
-
-<a name="dotcoreconsole"/>
-#### CONSOLE
-|Project Name|
-|------------|
-|[DotNetCore_SCD_Primer](https://github.com/Apollo013/DotNetCore_SCD_Primer)|
 
 <hr/>
 
@@ -798,6 +790,24 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |[WPF_AsynchronousProgramming](https://github.com/Apollo013/WPF_AsynchronousProgramming)|
 |[DotNet_Communications_TCP](https://github.com/Apollo013/DotNet_Communications_TCP)|
+
+<hr/>
+
+<a name="dotcore"/>
+#.NET Core    
+
+<a name="dotcoreasp"/>
+#### ASP.NET
+|Project Name|
+|------------|
+|[DotNetCore_Fundamentals](https://github.com/Apollo013/DotNetCore_Fundamentals)|
+
+
+<a name="dotcoreconsole"/>
+#### CONSOLE
+|Project Name|
+|------------|
+|[DotNetCore_SCD_Primer](https://github.com/Apollo013/DotNetCore_SCD_Primer)|
 
 
 ---
