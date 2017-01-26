@@ -108,6 +108,7 @@ Index for all continuous learning projects on GitHub.
 |--------|
 |[C#](https://github.com/Apollo013/CSharp_Algorithms)|
 |[Java](https://github.com/Apollo013/Java_Algorithms)|
+|[JavaScript](https://github.com/Apollo013/JavaScript_Algorithms)|
 
 <hr/>
 
