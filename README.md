@@ -22,6 +22,7 @@ Index for all continuous learning projects on GitHub.
   * [Javascript / jQuery / Ajax](#Javascript)
   * [KnockoutJS](#KnockoutJS)
   * [MomentJS](#MomentJS)
+  * Mongoose.js](#mongoose)
   * [NodeJS / ExpressJS](#NodeJS)
   * [PhantomJS](#PhantomJS)
   * [RequireJS](#REQUIREJS)
@@ -297,6 +298,13 @@ Index for all continuous learning projects on GitHub.
 |------------|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 |[MomentJS](https://github.com/Apollo013/MomentJS)|
+
+mongoose
+<a name="mongoose"/>
+## Mongoose.JS
+|Project Name|
+|------------|
+|[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
 
 <a name="NodeJS"/>
 ## NodeJS / ExpressJS
@@ -959,6 +967,7 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[AngularJS_WebApi_Jasmine_Karma](https://github.com/Apollo013/AngularJS_WebApi_Jasmine_Karma)|
 |[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
 |[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
+|[Javascript_Algorithms](https://github.com/Apollo013/Javascript_Algorithms)|
 
 <a name="JUnit"/>
 #### JUNIT
