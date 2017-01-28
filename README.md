@@ -388,6 +388,7 @@ mongoose
 |------------|
 |[NoSql_MongoDB](https://github.com/Apollo013/NoSql_MongoDB)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+|[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
 
 <a name="MySql"/>
 ## MySql
