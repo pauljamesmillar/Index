@@ -22,7 +22,7 @@ Index for all continuous learning projects on GitHub.
   * [Javascript / jQuery / Ajax](#Javascript)
   * [KnockoutJS](#KnockoutJS)
   * [MomentJS](#MomentJS)
-  * Mongoose.js](#mongoose)
+  * [Mongoose.js](#mongoose)
   * [NodeJS / ExpressJS](#NodeJS)
   * [PhantomJS](#PhantomJS)
   * [RequireJS](#REQUIREJS)
