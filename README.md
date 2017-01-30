@@ -26,6 +26,7 @@ Index for all continuous learning projects on GitHub.
   * [NodeJS / ExpressJS](#NodeJS)
   * [PhantomJS](#PhantomJS)
   * [RequireJS](#REQUIREJS)
+  * [Socket.io](#socketio)
   * [TextJS](#TextJS)
   * [Underscore](#Underscore)
 4. [Data Storage](#DataStorage)
@@ -330,6 +331,12 @@ mongoose
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 |[MEANStack_ContactsList](https://github.com/Apollo013/MEANStack_ContactsList)|
+
+<a name="socketio"/>
+## Socket.io
+|Project Name|
+|------------|
+|[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
 
 <a name="TextJS"/>
 ## TextJS 
