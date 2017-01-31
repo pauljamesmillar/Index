@@ -30,7 +30,7 @@ Index for all continuous learning projects on GitHub.
   * [RequireJS](#REQUIREJS)
   * [Socket.io](#socketio)
   * [TextJS](#TextJS)
-  * [TypesScript](#typescript)
+  * [TypeScript](#typescript)
   * [Underscore](#Underscore)
   * [Watchify](#watchify)
 4. [Data Storage](#DataStorage)
