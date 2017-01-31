@@ -14,9 +14,11 @@ Index for all continuous learning projects on GitHub.
   * [Design Principles](#DESIGNPRINCIPLES) 
 3. [Client Side Frameworks & Plugins](#CLIENTSIDE)
   * [AngularJS](#AngularJS)
+  * [Browserify](#browserfy)
   * [Charts](#Charts)
   * [CSS / Bootstrap](#CSS)
   * [CrossroadsJS](#CrossroadsJS)
+  * [Gulp / Uglify](#gulp)
   * [HistoryJS](#HistoryJS)
   * [HTML](#HTML)
   * [Javascript / jQuery / Ajax](#Javascript)
@@ -28,7 +30,9 @@ Index for all continuous learning projects on GitHub.
   * [RequireJS](#REQUIREJS)
   * [Socket.io](#socketio)
   * [TextJS](#TextJS)
+  * [TypesScript](#typescript)
   * [Underscore](#Underscore)
+  * [Watchify](#watchify)
 4. [Data Storage](#DataStorage)
   * [Access](#Access)
   * [Block Storage (Azure)](#BLOBSTORAGE)
@@ -101,7 +105,7 @@ Index for all continuous learning projects on GitHub.
     * [Visual Studio Test Framework](#VSTESTING)    
   * [Visual Paradigm](#vpgm)
   * [VS Code](#vscode)
-   
+
 ---
 
 <a name="Algorithms"/>
@@ -203,6 +207,14 @@ Index for all continuous learning projects on GitHub.
 |LoadingBar|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_UIGrid)|
 |ng-Table|[AspNet_WebApi2_AngularJS_Restangular](https://github.com/Apollo013/AspNet_WebApi2_AngularJS_Restangular)| 
 
+
+<a name="browserfy"/>
+## Browserfy
+|Project Name|
+|------------|
+|[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
+|[TypeScript_Gulp_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_Gulp_Fundamentals)|
+
 <a name="Charts"/>
 ## Charts
 |Project Name|Chart Plugins|
@@ -239,6 +251,12 @@ Index for all continuous learning projects on GitHub.
 |Project Name|
 |------------|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
+
+<a name="gulp"/>
+## Gulp / Uglify
+|Project Name|
+|------------|
+|[TypeScript_Gulp_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_Gulp_Fundamentals)|
 
 <a name="HistoryJS"/>
 ## HistoryJS
@@ -315,6 +333,7 @@ mongoose
 |[Edx_DEV221X_AngularJS_Advanced](https://github.com/Apollo013/Edx_DEV221X_AngularJS_Advanced)|
 |[AngularJS_ngMock_Pluralsight](https://github.com/Apollo013/AngularJS_ngMock_Pluralsight)|
 |[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
+|[TypeScript_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals)|
 
 <a name="PhantomJS"/>
 ## PhantomJS
@@ -345,12 +364,29 @@ mongoose
 |[AspNet_MVC5_KnockoutJS_SignalR](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR)|
 |[AspNet_MVC5_KnockoutJS_Basics](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_Basics)|
 
+
+<a name="typescript"/>
+## Typescript
+|Project Name|
+|------------|
+|[TypeScript_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals)|
+|[TypeScript_Gulp_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_Gulp_Fundamentals)|
+|[TypeScript_AspNetCore_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_AspNetCore_Fundamentals)|
+
+
 <a name="Underscore"/>
 ## Underscore
 |Project Name|
 |------------|
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 |[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
+
+watchify
+<a name="watchify"/>
+## Watchify
+|Project Name|
+|------------|
+|[TypeScript_Gulp_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_Gulp_Fundamentals)|
 
 ---
     
